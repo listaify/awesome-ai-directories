@@ -2,7 +2,7 @@
 
 A curated list of places where an AI product can get listed: AI directories, SaaS directories and review sites, launch platforms, startup databases, marketplaces and app stores, newsletters, communities and press.
 
-**1337 places**, each checked against its own submit page, pricing page or rules (last check 2026-10-03). Each name opens the place's page on **[listaify.com](https://listaify.com)**: its address, the price, the link you get, how review works and where to submit.
+**1799 places**, each checked against its own submit page, pricing page or rules (last check 2026-10-03). Each name opens the place's page on **[listaify.com](https://listaify.com)**: its address, the price, the link you get, how review works and where to submit.
 
 ## Get listed faster
 
@@ -54,6 +54,7 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [ChatableApps](https://listaify.com/places/chatableapps) | Accepts | Free or paid | nofollow | form |
 | [MCP Market](https://listaify.com/places/mcp-market) | MCP servers and skills only | Free or paid | dofollow | form |
 | [AIxploria](https://listaify.com/places/aixploria) | Accepts | Paid | nofollow | form |
+| [AIsmiley](https://listaify.com/places/aismiley) | B2B AI products only | On request | not stated | form |
 | [Claude Skills Hub](https://listaify.com/places/claude-skills-hub) | Open-source agent skills only | Free to list | dofollow | form |
 | [AIPURE](https://listaify.com/places/aipure) | Accepts | Paid | dofollow | form |
 | [Cursor Directory](https://listaify.com/places/cursor-directory) | MCP servers and rules only | Not stated | not stated | form |
@@ -61,6 +62,7 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [Public Prompts](https://listaify.com/places/public-prompts) | Accepts | Paid | nofollow | form |
 | [Stork.AI](https://listaify.com/places/stork-ai) | Accepts | Free for a link back | nofollow | form |
 | [AIGC工具导航](https://listaify.com/places/aigc-cn) | Chinese ICP filing required | Free | nofollow | form |
+| [MOGE](https://listaify.com/places/moge) | Accepts | Not stated | nofollow | form |
 | [EliteAI.tools](https://listaify.com/places/eliteai-tools) | Accepts | Not stated | nofollow | form |
 | [Artificin](https://listaify.com/places/artificin) | Accepts | Free with their badge | nofollow | form |
 | [ToolAI.io](https://listaify.com/places/toolai) | Accepts | Paid | dofollow | form |
@@ -85,59 +87,101 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [SkillsLLM](https://listaify.com/places/skillsllm) | Open-source repos, 100+ stars | Free | dofollow | form |
 | [Submit AI Tools](https://listaify.com/places/submitaitools) | Accepts | Not stated | nofollow | form |
 | [AIStage](https://listaify.com/places/aistage) | Accepts | Paid | dofollow | form |
+| [1AI](https://listaify.com/places/1ai) | Accepts | Paid | nofollow | form |
+| [2345AI导航](https://listaify.com/places/2345ai) | Accepts | Free or paid | dofollow | form |
+| [A2A Registry](https://listaify.com/places/a2a-registry) | A2A protocol agents only | Not stated | dofollow | form |
 | [Acid Tools](https://listaify.com/places/acid-tools) | Accepts | Not stated | not stated | form |
 | [Add AI Directory](https://listaify.com/places/add-ai-directory) | Accepts | Not stated | dofollow | form |
+| [Agent Rank](https://listaify.com/places/agent-rank) | Accepts | Not stated | dofollow | form |
 | [AgentHunter](https://listaify.com/places/agenthunter) | AI agents only | Free for a backlink | nofollow | form |
+| [Agentic Game Development](https://listaify.com/places/agentic-game-development) | Game development tools only | Free or paid | dofollow | form |
 | [AgentLaunch](https://listaify.com/places/agentlaunch) | Tools for AI product builders | Free or paid | dofollow | form |
+| [agentlist.io](https://listaify.com/places/agentlist) | AI agents only | Free | nofollow | form |
 | [AgentLocker](https://listaify.com/places/agentlocker) | Accepts | Free or paid | nofollow | form |
+| [AgentsIndex](https://listaify.com/places/agentsindex) | Accepts | Free or paid | nofollow | form |
+| [AgentsTide](https://listaify.com/places/agentstide) | AI agents only | Free or paid | dofollow | form |
 | [AgentWise](https://listaify.com/places/agentwise) | Accepts | Not stated | not stated | form |
 | [AgentWork.Tools](https://listaify.com/places/agentwork-tools) | Accepts | Free for a link back | dofollow | form |
 | [AI Accounting Apps](https://listaify.com/places/ai-accounting-apps) | AI accounting tools only | Paid | nofollow | form |
+| [AI Affiliate Programs](https://listaify.com/places/aiaffiliateprograms) | Affiliate programmes only | Not stated | not stated | form |
 | [AI Agents Gathering](https://listaify.com/places/ai-agents-gathering) | AI agents only | Not stated | not stated | form |
 | [AI Agents List](https://listaify.com/places/ai-agents-list) | AI agents and agent tools | Paid | nofollow | form |
 | [AI Agents Listing](https://listaify.com/places/ai-agents-listing) | Agents, MCP servers, skills | Free or paid | nofollow | form |
 | [AI Agents Live](https://listaify.com/places/ai-agents-live) | AI agents and agent tools only | Free or paid | dofollow | form |
 | [AI Agents Verse](https://listaify.com/places/ai-agents-verse) | Accepts | Not stated | not stated | form |
+| [AI App Index](https://listaify.com/places/ai-app-index) | Accepts | Free or paid | dofollow | form |
+| [AI Bookmarks](https://listaify.com/places/ai-bookmarks) | Accepts | Free | nofollow | form |
 | [AI Center](https://listaify.com/places/ai-center) | Accepts | Paid | dofollow | form |
+| [AI Collection](https://listaify.com/places/ai-collection) | Accepts | Not stated | not stated | form |
 | [AI Corner](https://listaify.com/places/aicorner) | Accepts | Free or paid | nofollow | form |
+| [AI Demos](https://listaify.com/places/ai-demos) | Accepts | On request | not stated | form |
 | [AI Depot](https://listaify.com/places/ai-depot) | Accepts | Paid | dofollow | form |
+| [AI Dev Tools Directory](https://listaify.com/places/ai-dev-tools-directory) | AI developer tools only | Free or paid | dofollow | form |
 | [AI Directories](https://listaify.com/places/ai-directories) | Accepts | Free with a link back | dofollow | form |
 | [AI Directory](https://listaify.com/places/ai-directory) | Accepts | Free | dofollow | form |
+| [AI Directory](https://listaify.com/places/ai-directory-com) | Accepts | Not stated | nofollow | form |
+| [AI Directory](https://listaify.com/places/ai-directory-dev) | Accepts | Free or paid | dofollow | form |
 | [AI Dreamhub](https://listaify.com/places/aidreamhub) | Accepts | Free for a link back | nofollow | form |
 | [AI Dude](https://listaify.com/places/ai-dude) | Accepts | Free or paid | dofollow | form |
 | [AI Dust](https://listaify.com/places/aidust) | Accepts | Free | dofollow | form |
 | [AI Educator Tools](https://listaify.com/places/ai-educator-tools) | Education tools only | Not stated | nofollow | — |
+| [AI Explorer](https://listaify.com/places/ai-explorer) | Accepts | Free or paid | not stated | form |
+| [AI Finder Guru](https://listaify.com/places/ai-finder-guru) | Accepts | Not stated | dofollow | form |
+| [AI Finder Hub](https://listaify.com/places/ai-finder-hub) | Free or freemium tools only | Free | nofollow | form |
 | [AI Finder Plus](https://listaify.com/places/ai-finder-plus) | Accepts | Free for a link back | dofollow | form |
+| [AI Finder Tools](https://listaify.com/places/ai-finder-tools) | Accepts | Free or paid | nofollow | form |
 | [AI for Developers](https://listaify.com/places/ai-for-developers) | AI developer tools only | Free or paid | dofollow | form |
+| [AI for PropTech](https://listaify.com/places/ai-for-proptech) | Proptech and CRE AI only | Free or paid | dofollow | form |
 | [AI Gear Base](https://listaify.com/places/aigearbase) | Accepts | Free or paid | nofollow | form |
 | [AI Headshot Hub](https://listaify.com/places/ai-headshot-hub) | AI headshot tools only | Not stated | not stated | form |
 | [AI Hustle](https://listaify.com/places/ai-hustle) | Accepts | Free for a link back | dofollow | form |
 | [AI Jet](https://listaify.com/places/ai-jet) | Accepts | Free for a link back | dofollow | form |
 | [AI Just Better](https://listaify.com/places/ai-just-better) | Accepts | Free for a link back | dofollow | form |
+| [AI Just Works](https://listaify.com/places/ai-just-works) | Launched products only | Free for a link back | nofollow | form |
 | [AI Kaptan](https://listaify.com/places/ai-kaptan) | Accepts | Paid | dofollow | form |
+| [AI Kendra](https://listaify.com/places/ai-kendra) | Accepts | Free or paid | dofollow | form |
 | [AI Launch Space](https://listaify.com/places/ai-launch-space) | Accepts | Free for a link back | dofollow | form |
 | [AI Library by Phygital+](https://listaify.com/places/phygital-ai-library) | Accepts | Free | not stated | form |
 | [AI Marketing Directory](https://listaify.com/places/ai-marketing-directory) | Accepts | Free or paid | dofollow | form |
+| [AI Navigation Directory](https://listaify.com/places/ai-navigation-directory) | Accepts | Free | dofollow | form |
+| [AI Need That](https://listaify.com/places/aineedthat) | Accepts | Paid | dofollow | form |
 | [AI Parabellum](https://listaify.com/places/ai-parabellum) | Accepts | Paid | dofollow | form |
 | [AI Products for CX](https://listaify.com/places/aicxstack) | Customer support AI only | Free | dofollow | form |
 | [AI Pulse](https://listaify.com/places/ai-pulse) | Accepts | Free | dofollow | form |
+| [AI Register](https://listaify.com/places/ai-register) | Accepts | Free or paid | dofollow | form |
+| [AI Research Directory](https://listaify.com/places/ai-research-directory) | Academic research tools only | Free | dofollow | form |
 | [AI Respo](https://listaify.com/places/airespo) | Accepts | Free | dofollow | form |
 | [AI Search](https://listaify.com/places/ai-search) | Accepts | Paid | dofollow | form |
+| [AI Shortcut Lab](https://listaify.com/places/ai-shortcut-lab) | Accepts | Free | sponsored | form |
 | [AI Stack](https://listaify.com/places/ai-stack) | Accepts | Not stated | dofollow | form |
 | [AI SuperHub](https://listaify.com/places/ai-superhub) | Accepts | Free or paid | dofollow | form |
+| [AI Testing Tools](https://listaify.com/places/testingtools-ai) | AI testing tools only | Not stated | not stated | form |
+| [AI Today](https://listaify.com/places/ai-today-pl) | Accepts | Paid | dofollow | form |
 | [AI Tool Discovery](https://listaify.com/places/ai-tool-discovery) | Accepts | Free for a link back | not stated | form |
 | [AI Tool Finder](https://listaify.com/places/ai-tool-finder) | Accepts | Free for a link back | dofollow | form |
+| [AI Tool India](https://listaify.com/places/aitoolindia) | Tools useful in India | Free or paid | not stated | form |
 | [AI Tool Trek](https://listaify.com/places/ai-tool-trek) | Accepts | Free for a home page link | dofollow | form |
 | [AI Toolhouse](https://listaify.com/places/ai-toolhouse) | Accepts | Paid | not stated | form |
 | [AI Tools (aitools.inc)](https://listaify.com/places/aitools-inc) | Accepts | Free or paid | dofollow | form |
+| [AI Tools Association](https://listaify.com/places/aitoolsassociation) | Accepts | Free or paid | dofollow | form |
 | [AI Tools Capital](https://listaify.com/places/ai-tools-capital) | Accepts | Free or paid | dofollow | form |
 | [AI Tools Club](https://listaify.com/places/ai-tools-club) | Accepts | Paid | dofollow | form |
+| [AI Tools Daily](https://listaify.com/places/ai-tools-daily) | Accepts | Not stated | dofollow | form |
 | [AI Tools Directory](https://listaify.com/places/ai-tools-directory) | Launched tools, public pricing | Free or paid | nofollow | form |
+| [AI Tools Directory](https://listaify.com/places/aitools-directory) | Accepts | Free or paid | dofollow | form |
+| [AI Tools Directory](https://listaify.com/places/ai-tools-directory-keenchase) | Accepts | Not stated | dofollow | form |
+| [AI Tools Directory](https://listaify.com/places/ai-tools-directory-vocino) | Accepts | Free | dofollow | form |
+| [AI Tools Directory List](https://listaify.com/places/ai-tools-directory-list) | Accepts | Paid | nofollow | form |
 | [AI Tools Explorer](https://listaify.com/places/aitoolsexplorer) | Accepts | Paid | nofollow | form |
 | [AI Tools for Marketers](https://listaify.com/places/ai-tools-for-marketers) | Marketing tools only | Free for a link back | nofollow | form |
 | [AI Tools Hunt](https://listaify.com/places/aitoolshunt) | Accepts | Free or paid | dofollow | form |
+| [AI Tools ID](https://listaify.com/places/ai-tools-id) | Accepts | Free or paid | not stated | form |
+| [AI Tools India](https://listaify.com/places/aitoolsindia) | Tools useful in India | Free | not stated | form |
+| [AI Tools Library](https://listaify.com/places/aitools-sh) | Accepts | Not stated | sponsored | form |
 | [AI Tools Lister](https://listaify.com/places/ai-tools-lister) | Accepts | Free or paid | nofollow | form |
 | [AI Tools Magazine](https://listaify.com/places/ai-tools-magazine) | Accepts | Not stated | dofollow | form |
+| [AI Tools Map](https://listaify.com/places/ai-tools-map) | Accepts | Not stated | dofollow | form |
+| [AI Tools NL](https://listaify.com/places/aitoolhub-nl) | Accepts | Free or paid | sponsored | form |
 | [AI Tools One](https://listaify.com/places/ai-tools-one) | Accepts | Paid | dofollow | form |
 | [AI Tools Saver](https://listaify.com/places/aitoolsaver) | Accepts | Paid | dofollow | form |
 | [AI Tools SME](https://listaify.com/places/ai-tools-sme) | Accepts | Paid | dofollow | form |
@@ -145,9 +189,13 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [AI Toolz](https://listaify.com/places/ai-toolz) | Accepts | Not stated | not stated | form |
 | [AI Toolz Dir](https://listaify.com/places/ai-toolz-dir) | Accepts | Free for a link back | dofollow | form |
 | [AI Trendz](https://listaify.com/places/ai-trendz) | Accepts | Paid | not stated | form |
+| [AI WareHub](https://listaify.com/places/ai-warehub) | Accepts | Not stated | not stated | form |
 | [AI With Me](https://listaify.com/places/ai-with-me) | Accepts | Paid | dofollow | form |
 | [AI X Collection](https://listaify.com/places/ai-x-collection) | Accepts | Not stated | not stated | form |
+| [ai-tool.ai](https://listaify.com/places/ai-tool-ai) | Accepts | Free | dofollow | form |
+| [AiAgents.Directory](https://listaify.com/places/aiagents-directory) | AI agents only | Free or paid | dofollow | form |
 | [AIAI.Tools](https://listaify.com/places/aiai-tools) | Accepts | Not stated | not stated | form |
+| [AIAnytime/Awesome-MCP-Server](https://listaify.com/places/aianytime-awesome-mcp-server) | MCP servers only | Free | nofollow | form |
 | [AIapps](https://listaify.com/places/aiapps) | Accepts | Paid | sponsored | form |
 | [AIAXIO](https://listaify.com/places/aiaxio) | Launched products only | Paid | nofollow | form |
 | [AIBest.Tools](https://listaify.com/places/aibest-tools) | Accepts | Paid | dofollow | form |
@@ -156,30 +204,54 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [AIBoom.Tools](https://listaify.com/places/aiboom-tools) | Accepts | Free for a link back | dofollow | form |
 | [AIDirs](https://listaify.com/places/aidirs-org) | Accepts | Free for a link back | dofollow | form |
 | [Aidirs](https://listaify.com/places/aidirs) | Accepts | Free for a link back | dofollow | form |
+| [AIDrips](https://listaify.com/places/aidrips) | Accepts | Not stated | dofollow | form |
+| [aier.im](https://listaify.com/places/aier-im) | Accepts | Not stated | dofollow | form |
 | [AIFINDY](https://listaify.com/places/aifindy) | Accepts | Free or paid | dofollow | form |
 | [AiForEveryone](https://listaify.com/places/aiforeveryone) | Accepts | Paid | dofollow | form |
+| [aiforme.wiki](https://listaify.com/places/aiforme-wiki) | Accepts | Free | not stated | form |
 | [AIGC 160](https://listaify.com/places/aigc-160) | Accepts | Not stated | not stated | form |
+| [AIGC Tools Base](https://listaify.com/places/aigc-tools-base) | Accepts | Not stated | dofollow | form |
 | [AIGCLIST](https://listaify.com/places/aigclist) | Accepts | Free or paid | nofollow | form |
+| [AIGC官网](https://listaify.com/places/aigc-izzi) | Accepts | Free or paid | nofollow | form |
 | [AIGO.tools](https://listaify.com/places/aigo-tools) | Accepts | Paid | dofollow | form |
+| [aigotools](https://listaify.com/places/aigotools) | Accepts | Paid | dofollow | form |
 | [AiHeron (智鹭AI)](https://listaify.com/places/aiheron) | Accepts | Free for a link back | dofollow | form |
 | [AIHub](https://listaify.com/places/aihub) | Accepts | Paid | dofollow | form |
 | [AiHubs](https://listaify.com/places/aihubs) | Accepts | Free for a link back | dofollow | form |
 | [AIHuntList](https://listaify.com/places/aihuntlist) | Accepts | Free for a link back | dofollow | form |
 | [AiIndex.tools](https://listaify.com/places/aiindex-tools) | Accepts | Free for a link back | dofollow | form |
+| [AiJumble](https://listaify.com/places/aijumble) | Accepts | Free or paid | dofollow | form |
+| [AIkompassen](https://listaify.com/places/aikompassen) | Accepts | Not stated | dofollow | form |
 | [Ailib](https://listaify.com/places/ailib) | Accepts | Free or paid | dofollow | form |
+| [AIList.ru](https://listaify.com/places/ailist-ru) | Russian AI services only | Free | nofollow | form |
+| [AIListify](https://listaify.com/places/ailistify) | Accepts | Paid | not stated | form |
 | [AiMatch](https://listaify.com/places/aimatch) | Accepts | Paid | nofollow | form |
+| [AINav](https://listaify.com/places/aiv123) | Accepts | Not stated | dofollow | form |
 | [AINave](https://listaify.com/places/ainave) | Accepts | Free or paid | nofollow | form |
 | [AINewTool](https://listaify.com/places/ainewtool) | Accepts | Free for a link back | dofollow | form |
 | [AINovaTools](https://listaify.com/places/ainovatools) | Accepts | Free or paid | nofollow | form |
+| [AIPreneurs.org](https://listaify.com/places/aipreneurs) | African AI companies only | Free | nofollow | form |
+| [AIPROFIND](https://listaify.com/places/aiprofind) | Accepts | Free or paid | nofollow | form |
+| [airehber.com.tr](https://listaify.com/places/airehber) | Accepts | Not stated | not stated | form |
+| [AISecKit](https://listaify.com/places/aiseckit) | Accepts | Free for a link back | dofollow | form |
 | [AISO Tools](https://listaify.com/places/aisotools) | Accepts | Free or paid | nofollow | form |
 | [AiSoftO](https://listaify.com/places/aisofto) | Accepts | Free or paid | nofollow | form |
+| [AIStart.ai](https://listaify.com/places/aistart-ai) | Accepts | Free or paid | nofollow | form |
 | [AiSuperSmart](https://listaify.com/places/aisupersmart) | Accepts | Free | dofollow | form |
 | [Aitach](https://listaify.com/places/aitach) | Accepts | Free or paid | nofollow | form |
+| [AITECHFY](https://listaify.com/places/aitechfy) | Accepts | Paid | not stated | form |
+| [AITL](https://listaify.com/places/aitl) | Accepts | Free or paid | dofollow | form |
 | [AIToolboard](https://listaify.com/places/aitoolboard) | Accepts | Free or paid | dofollow | form |
+| [AIToolBox](https://listaify.com/places/aitoolbox-fyi) | Accepts | Free or paid | nofollow | form |
 | [AIToolex](https://listaify.com/places/aitoolex) | Accepts | Free for a limited time | dofollow | form |
+| [AIToolHub](https://listaify.com/places/aitoolhub) | Accepts | Paid | not stated | form |
 | [AIToolHunt](https://listaify.com/places/aitoolhunt) | Accepts | Free with a badge | dofollow | form |
 | [AiToolMate](https://listaify.com/places/aitoolmate) | Accepts | Paid | nofollow | form |
+| [AItools](https://listaify.com/places/aitools-lol) | Accepts | Free or paid | not stated | form |
+| [aitools.ai](https://listaify.com/places/aitools-ai) | Accepts | Not stated | not stated | form |
 | [AiToolsList.Tools](https://listaify.com/places/aitoolslist-tools) | Accepts | Free for a link back | dofollow | form |
+| [AiToolsObserver](https://listaify.com/places/aitoolsobserver) | Accepts | Free or paid | nofollow | form |
+| [AIToolsRecap](https://listaify.com/places/aitoolsrecap) | Accepts | Free or paid | nofollow | form |
 | [AIToolsWiki](https://listaify.com/places/aitoolswiki) | Accepts | Free or paid | dofollow | form |
 | [AITOP10](https://listaify.com/places/aitop10) | Accepts | Free for a link back | nofollow | form |
 | [AITopTools](https://listaify.com/places/aitoptools) | Accepts | Paid | dofollow | form |
@@ -188,123 +260,258 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [AITrustList](https://listaify.com/places/aitrustlist) | Accepts | Free for a link back | dofollow | form |
 | [AIWget](https://listaify.com/places/aiwget) | Accepts | Paid | dofollow | form |
 | [AIWikiTools](https://listaify.com/places/aiwikitools) | Accepts | Not stated | nofollow | form |
+| [aixplore](https://listaify.com/places/aixplore) | Accepts | Not stated | dofollow | form |
+| [AI产品库 AIProductHub](https://listaify.com/places/aiproducthub) | Accepts | Not stated | nofollow | form |
+| [AI创作导航 (CXGN)](https://listaify.com/places/cxgn) | Accepts | Free | not stated | form |
 | [AI奥义](https://listaify.com/places/aoyii) | Accepts | Free | nofollow | form |
+| [AI导航](https://listaify.com/places/xiaoan) | Accepts | Paid | nofollow | form |
+| [AI导航](https://listaify.com/places/8nav) | Accepts | Not stated | not stated | form |
 | [AI导航 (dreamthere.cn)](https://listaify.com/places/ai-dreamthere) | Accepts | Not stated | not stated | form |
+| [AI导航吧](https://listaify.com/places/aidhb) | Accepts | Paid | dofollow | form |
 | [AI导航网 (AInav)](https://listaify.com/places/ainav) | Accepts | Not stated | dofollow | form |
+| [AI工具导航](https://listaify.com/places/zhijian100) | Accepts | Free | not stated | form |
+| [AI工具导航 (Aig123)](https://listaify.com/places/aig123) | Must be usable from China | Free or paid | nofollow | form |
 | [AI工具导航站 (ai-nav)](https://listaify.com/places/ai-nav) | Accepts | Free or paid | dofollow | form |
 | [AI工具箱 (ailookme)](https://listaify.com/places/ailookme) | Accepts | Not stated | not stated | form |
+| [AI工具箱官网](https://listaify.com/places/ai-kit) | Accepts | On request | nofollow | form |
+| [AI工具箱网](https://listaify.com/places/ai-tab) | Accepts | Not stated | nofollow | form |
+| [AI工具网](https://listaify.com/places/ai138) | Accepts | Free or paid | nofollow | form |
+| [AI工具集](https://listaify.com/places/ai-0xnav) | Accepts | Not stated | nofollow | form |
+| [AI标签页](https://listaify.com/places/aitags) | Accepts | Not stated | not stated | form |
+| [AI神器大全 (AIShenqi)](https://listaify.com/places/aishenqi) | Accepts | Free or paid | dofollow | form |
+| [AlexMili/Awesome-MCP](https://listaify.com/places/alexmili-awesome-mcp) | MCP servers, clients and tools | Free | nofollow | form |
 | [All in AI Tools](https://listaify.com/places/all-in-ai-tools) | Accepts | Free for a link back | dofollow | form |
+| [All Top AI Tools](https://listaify.com/places/all-top-ai-tools) | Accepts | Free or paid | nofollow | form |
 | [AllAIWebsite](https://listaify.com/places/allaiwebsite) | Accepts | Free or paid | dofollow | form |
+| [Allesora](https://listaify.com/places/allesora) | Accepts | Free or paid | not stated | form |
 | [AllGPTs](https://listaify.com/places/allgpts) | Custom GPTs only | Free or paid | nofollow | form |
 | [AllMCPs](https://listaify.com/places/allmcps) | MCP servers only | Free or paid | nofollow | form |
+| [aloth/awesome-ai-agents](https://listaify.com/places/aloth-awesome-ai-agents) | Needs over 100 GitHub stars | Free | nofollow | form |
 | [Altern](https://listaify.com/places/altern) | Accepts | Free or paid | dofollow | form |
 | [alternativeai.tools](https://listaify.com/places/alternativeai-tools) | Accepts | Not stated | dofollow | form |
+| [alvinreal/awesome-opensource-ai](https://listaify.com/places/alvinreal-awesome-opensource-ai) | Open source only | Free | nofollow | form |
+| [amaze.directory](https://listaify.com/places/amaze-directory) | Accepts | Free for a link back | dofollow | form |
+| [andyrewlee/awesome-agent-orchestrators](https://listaify.com/places/andyrewlee-awesome-agent-orchestrators) | Open or source-available only | Free | nofollow | form |
 | [AnyFP](https://listaify.com/places/anyfp) | Accepts | Free | nofollow | form |
 | [AppCritica](https://listaify.com/places/appcritica) | Accepts | Free or paid | nofollow | form |
+| [AppMole](https://listaify.com/places/appmole) | Accepts | Not stated | dofollow | form |
 | [Apps and Websites](https://listaify.com/places/apps-and-websites) | Accepts | Not stated | dofollow | form |
 | [Appscribed](https://listaify.com/places/appscribed) | Accepts | Paid | dofollow | form |
+| [Artificial Intelligence Directory](https://listaify.com/places/artificial-intelligence-directory) | Accepts | Free | dofollow | form |
 | [Artiverse AI](https://listaify.com/places/artiverse) | Accepts | Paid | dofollow | form |
+| [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](https://listaify.com/places/arunagirinathan-k-awesome-ai-agents-2026) | AI agents and agent tools only | Free | nofollow | form |
+| [ashishpatel26/500-AI-Agents-Projects](https://listaify.com/places/ashishpatel26-500-ai-agents-projects) | Open-source agent code only | Free | nofollow | form |
 | [Ask AI For It](https://listaify.com/places/ask-ai-for-it) | Accepts | Paid | dofollow | form |
+| [Avenue de l'IA](https://listaify.com/places/avenue-de-lia) | Accepts | Free or paid | sponsored | form |
 | [Awesome AI Tools](https://listaify.com/places/awesome-ai-tools) | Accepts | Paid | dofollow | form |
+| [awesome-mcp.tools](https://listaify.com/places/awesome-mcp-tools) | MCP servers only | Not stated | dofollow | form |
+| [A站导航](https://listaify.com/places/aoxox) | Chinese ICP-filed sites only | Free | nofollow | form |
 | [BAI.tools](https://listaify.com/places/bai-tools) | Accepts | Free or paid | dofollow | form |
+| [benchmark.directory](https://listaify.com/places/benchmark-directory) | Accepts | Free for a link back | nofollow | form |
+| [beriberikix/awesome-mcp-hardware](https://listaify.com/places/beriberikix-awesome-mcp-hardware) | Hardware MCP servers only | Free | nofollow | form |
+| [Best AI Agents](https://listaify.com/places/best-ai-agents) | AI agents only | Not stated | nofollow | form |
 | [Best AI Brands](https://listaify.com/places/best-ai-brands) | Accepts | Paid | nofollow | form |
 | [Best AI Tools](https://listaify.com/places/best-ai-tools) | Accepts | Not stated | not stated | form |
+| [Best AI Tools for That](https://listaify.com/places/best-ai-tools-for-that) | Accepts | Free or paid | dofollow | form |
 | [Best of AI](https://listaify.com/places/best-of-ai) | Accepts | Free or paid | dofollow | form |
 | [Best-AI.org](https://listaify.com/places/best-ai-org) | Accepts | Free or paid | dofollow | form |
 | [BestofAI](https://listaify.com/places/bestofai) | Accepts | Not stated | dofollow | form |
+| [BestskyTools](https://listaify.com/places/bestskytools) | Accepts | Free for a link back | dofollow | form |
+| [BestTools](https://listaify.com/places/besttools) | Accepts | Paid | dofollow | form |
 | [Beyond AI Tools](https://listaify.com/places/beyond-ai-tools) | Accepts | Paid | dofollow | form |
+| [Beyond The AI](https://listaify.com/places/beyond-the-ai) | Accepts | Free or paid | nofollow | form |
+| [BlockRunAI/awesome-finance-mcp](https://listaify.com/places/blockrunai-awesome-finance-mcp) | Finance MCP servers and skills | Free | nofollow | form |
+| [bradAGI/awesome-cli-coding-agents](https://listaify.com/places/bradagi-awesome-cli-coding-agents) | CLI coding agents only | Free | nofollow | form |
 | [BroUseAI](https://listaify.com/places/brouseai) | Accepts | Free or paid | dofollow | form |
+| [Browsing.AI](https://listaify.com/places/browsing-ai) | Accepts | Paid | dofollow | form |
+| [buildwithaitools.com](https://listaify.com/places/buildwithaitools) | Accepts | Not stated | dofollow | form |
+| [BYOKList](https://listaify.com/places/byoklist) | BYOK tools only | Not stated | dofollow | form |
+| [CaminhoTec](https://listaify.com/places/caminhotec) | Must work in Brazil | Not stated | dofollow | form |
 | [Canopy Directory](https://listaify.com/places/canopy-directory) | Education tools only | Not stated | not stated | form |
+| [Catálogo IA](https://listaify.com/places/catalogo-ia) | Accepts | Free | dofollow | form |
 | [CitedIndex](https://listaify.com/places/citedindex) | AI-visibility and GEO tools | Free or paid | nofollow | form |
+| [Claude Code Marketplaces](https://listaify.com/places/claudemarketplaces) | Claude Code extensions only | Free or paid | not stated | form |
 | [CollectAI](https://listaify.com/places/collectai) | Accepts | Free for a link back | dofollow | form |
+| [Comparateur-IA](https://listaify.com/places/comparateur-ia) | Accepts | Free or paid | nofollow | form |
+| [Credible AI Tools](https://listaify.com/places/credibleaitools) | Accepts | Free or paid | nofollow | form |
 | [DeepLaunch](https://listaify.com/places/deeplaunch) | Accepts | Free for a link back | dofollow | form |
 | [Delv](https://listaify.com/places/delv) | Accepts | Free or paid | sponsored | form |
 | [DetectorTools.ai](https://listaify.com/places/detectortools) | AI detectors only | Free for AI detectors | dofollow | form |
+| [DevToolLab](https://listaify.com/places/devtoollab) | Accepts | Pay per click from $0.20 | not stated | form |
+| [Directory of Agents](https://listaify.com/places/directory-of-agents) | AI agents only | Free or paid | dofollow | form |
+| [DiscoverAI](https://listaify.com/places/discoverai) | Accepts | Free or paid | dofollow | form |
+| [Doforai](https://listaify.com/places/doforai) | Accepts | Free for a link back | nofollow | form |
 | [DokeyAI](https://listaify.com/places/dokeyai) | Accepts | Free for a footer link | dofollow | form |
 | [DomainRank](https://listaify.com/places/domainrank) | Accepts | Free for a link back | dofollow | form |
 | [DropYourAI](https://listaify.com/places/dropyourai) | Accepts | Free or paid | dofollow | form |
 | [Dynamite AI](https://listaify.com/places/dynamite-ai) | Accepts | Free or paid | dofollow | form |
 | [Easy Save AI](https://listaify.com/places/easy-save-ai) | Accepts | Paid | dofollow | form |
+| [EcomAgentTools](https://listaify.com/places/ecomagenttools) | Ecommerce AI tools only | Not stated | dofollow | form |
+| [ejaj.cz](https://listaify.com/places/ejaj-cz) | Accepts | Free or paid | not stated | form |
+| [etooly.eu](https://listaify.com/places/etooly) | Accepts | Free or paid | dofollow | form |
 | [EveryAI](https://listaify.com/places/everyai) | Accepts | Free or paid | nofollow | form |
 | [EveryDev.ai](https://listaify.com/places/everydev-ai) | Accepts | Free or paid | dofollow | form |
+| [ExploreAI.tools](https://listaify.com/places/exploreai-tools) | Accepts | Paid | dofollow | form |
+| [FeaturedAITools](https://listaify.com/places/featuredaitools) | Accepts | Free or paid | not stated | form |
+| [Ferramentas AI](https://listaify.com/places/ferramentas-ai) | Accepts | Not stated | dofollow | form |
 | [Find My AI Tool](https://listaify.com/places/findmyaitool) | Accepts | Paid | dofollow | form |
 | [FindAITools](https://listaify.com/places/findaitools-co) | Accepts | Free or paid | dofollow | form |
+| [FindHarness](https://listaify.com/places/findharness) | DeepSeek-Harness plugins only | Free | nofollow | form |
 | [FindMyAITool.io](https://listaify.com/places/findmyaitool-io) | Accepts | Paid | nofollow | form |
+| [FindToolz](https://listaify.com/places/findtoolz) | Accepts | Free | dofollow | form |
+| [Finetools](https://listaify.com/places/finetools) | Accepts | Free or paid | dofollow | form |
 | [First Look](https://listaify.com/places/first-look) | Accepts | Free for a link back | dofollow | form |
 | [Flaex](https://listaify.com/places/flaex) | Accepts | Free or paid | nofollow | form |
 | [flowtools](https://listaify.com/places/flowtools) | Accepts | Not stated | nofollow | form |
+| [foss42/awesome-generative-ai-apis](https://listaify.com/places/foss42-awesome-generative-ai-apis) | Generative AI APIs only | Free | nofollow | form |
+| [FoundersDatabase](https://listaify.com/places/foundersdatabase) | Accepts | Paid | dofollow | form |
 | [Foundr](https://listaify.com/places/foundr-ai) | Accepts | Not stated | not stated | form |
+| [FreeAI](https://listaify.com/places/freeai) | Accepts | Free for a link back | dofollow | form |
 | [Freemium AI](https://listaify.com/places/freemium-ai) | Accepts | Free or paid | nofollow | form |
 | [Full Stack AI](https://listaify.com/places/full-stack-ai) | Accepts | Paid | dofollow | form |
 | [Future AI Guide](https://listaify.com/places/futureaiguide) | Accepts | Not stated | dofollow | form |
+| [Future AI Toolbox](https://listaify.com/places/futureaitoolbox) | Accepts | Not stated | dofollow | form |
+| [FuturePedia](https://listaify.com/places/future-pedia) | Accepts | Not stated | dofollow | form |
 | [FutureStack](https://listaify.com/places/futurestack) | Accepts | Free or paid | dofollow | form |
 | [Genify](https://listaify.com/places/genify) | Accepts | Free with a backlink | dofollow | form |
+| [Get AI Tools](https://listaify.com/places/get-ai-tools) | Accepts | Free | dofollow | form |
 | [Get Magic Tools](https://listaify.com/places/get-magic-tools) | Accepts | Free or paid | dofollow | form |
+| [Gets.Tools](https://listaify.com/places/gets-tools) | Accepts | Free for a link back | dofollow | form |
+| [Global A2A Registry](https://listaify.com/places/global-a2a-registry) | A2A protocol agents only | Free | dofollow | form |
+| [Global AI Product](https://listaify.com/places/global-ai-product) | Accepts | Not stated | dofollow | form |
+| [Global AI Product Index](https://listaify.com/places/global-ai-product-index) | Public AI products only | Not stated | nofollow | form |
 | [GPT Academy](https://listaify.com/places/gpt-academy) | Accepts | Free or paid | not stated | form |
+| [GPT Tracker](https://listaify.com/places/gpt-tracker) | Custom GPTs only | On request | not stated | form |
+| [GPT-C](https://listaify.com/places/gpt-c) | Accepts | Not stated | sponsored | form |
 | [GPTBot](https://listaify.com/places/gptbot) | Accepts | Paid | dofollow | form |
 | [GptDemo](https://listaify.com/places/gptdemo) | Accepts | Paid | dofollow | form |
 | [GPTs Hunter](https://listaify.com/places/gpts-hunter) | GPTs only (as of Feb 2026) | Free or paid | not stated | form |
+| [GPTsFinder](https://listaify.com/places/gptsfinder) | Custom GPTs only | Free | dofollow | form |
+| [grokbot.dev](https://listaify.com/places/grokbot-dev) | Grok Bot ecosystem only | Free or paid | dofollow | form |
 | [GroupifyAI](https://listaify.com/places/groupifyai) | Accepts | Paid | dofollow | form |
+| [Guide of AI Tool](https://listaify.com/places/guideofaitool) | Accepts | Free | not stated | form |
+| [haoruilee/awesome-agent-native-services](https://listaify.com/places/haoruilee-awesome-agent-native-services) | Agent-native services only | Free | nofollow | form |
 | [Havnai](https://listaify.com/places/havnai) | Accepts | Free for a link back | not stated | form |
 | [HD Robots](https://listaify.com/places/hd-robots) | Accepts | Paid | dofollow | form |
+| [HealthyData](https://listaify.com/places/healthydata) | Healthcare AI tools only | Not stated | not stated | form |
+| [hesreallyhim/awesome-claude-code](https://listaify.com/places/hesreallyhim-awesome-claude-code) | Claude Code resources | Free | nofollow | form |
+| [HeyClaude (JSONbored/awesome-claude)](https://listaify.com/places/jsonbored-awesome-claude) | Claude workflow resources only | Free or paid | not stated | form |
 | [HiProducty](https://listaify.com/places/hiproducty) | Accepts | Not stated | nofollow | form |
+| [HokAI](https://listaify.com/places/hokai) | Accepts | $5 launch offer, then $50 | dofollow | form |
 | [Human or Not](https://listaify.com/places/human-or-not) | Accepts | Free | dofollow | form |
+| [HuntifyAI](https://listaify.com/places/huntifyai) | Accepts | Free or paid | dofollow | form |
+| [HyzenPro](https://listaify.com/places/hyzenpro) | Accepts | Free or paid | dofollow | form |
 | [i For AI](https://listaify.com/places/iforai) | Accepts | Free or paid | dofollow | form |
+| [IABOXTOOL](https://listaify.com/places/iaboxtool) | Accepts | Not stated | dofollow | form |
 | [IndexOf.AI](https://listaify.com/places/indexof-ai) | Accepts | Free or paid | dofollow | form |
+| [IndianAIapps](https://listaify.com/places/indianaiapps) | India-focused apps only | Free | dofollow | form |
 | [IndieAI](https://listaify.com/places/indieai-directory) | Indie-built AI tools only | Free for a link back | dofollow | form |
 | [Infrabase](https://listaify.com/places/infrabase) | AI infrastructure tools only | Free or paid | dofollow | form |
 | [Insidr.ai](https://listaify.com/places/insidr) | Accepts | Free or paid | dofollow | form |
 | [Intelligent Tools](https://listaify.com/places/intelligent-tools) | Accepts | Free or paid | dofollow | form |
 | [Interested In AI](https://listaify.com/places/interestedinai) | Accepts | Free or paid | not stated | form |
 | [Iuu AI](https://listaify.com/places/iuu-ai) | Accepts | Free or paid | dofollow | form |
+| [JAW9C/awesome-remote-mcp-servers](https://listaify.com/places/jaw9c-awesome-remote-mcp-servers) | Remote MCP servers only | Free | nofollow | form |
+| [Jenqyang/Awesome-AI-Agents](https://listaify.com/places/jenqyang-awesome-ai-agents) | Open-source projects only | Free | nofollow | form |
+| [karanb192/awesome-claude-skills](https://listaify.com/places/karanb192-awesome-claude-skills) | Open-source Claude skills only | Free | nofollow | form |
+| [kdjingpai.com](https://listaify.com/places/kdjingpai) | Accepts | Not stated | nofollow | form |
+| [kiwerkzeuge](https://listaify.com/places/kiwerkzeuge) | Accepts | Free or paid | nofollow | form |
+| [kodustech/awesome-agent-skills](https://listaify.com/places/kodustech-awesome-agent-skills) | Agent skills only | Free | nofollow | form |
+| [kyrolabs/awesome-agents](https://listaify.com/places/kyrolabs-awesome-agents) | Open-source agent tools only | Free | nofollow | form |
 | [Lachief](https://listaify.com/places/lachief) | Accepts | Free or paid | dofollow | form |
 | [Lacreme.ai](https://listaify.com/places/lacreme-ai) | Accepts | Free or paid | dofollow | form |
 | [Latest AI Updates](https://listaify.com/places/latest-ai-updates) | Accepts | Not stated | dofollow | form |
 | [Launch](https://listaify.com/places/launchsoar) | Accepts | Free for a link back | dofollow | form |
 | [launched.tools](https://listaify.com/places/launched-tools) | Accepts | Free for a link back | dofollow | form |
+| [Les IA](https://listaify.com/places/les-ia) | Accepts | Free for a link back | nofollow | form |
 | [LineZine](https://listaify.com/places/linezine) | Business tools only | Paid | dofollow | form |
+| [listai.tools](https://listaify.com/places/listai-tools) | Accepts | Free for a link back | nofollow | form |
 | [ListBulb](https://listaify.com/places/listbulb) | Accepts | Free for a link back | dofollow | form |
+| [ListoolAI](https://listaify.com/places/listoolai) | Accepts | Free | nofollow | form |
 | [ListYourTool](https://listaify.com/places/listyourtool) | Accepts | Free | nofollow | form |
+| [LLM Relevance](https://listaify.com/places/llm-relevance) | Small business tools only | Free | nofollow | form |
+| [LLM.Info](https://listaify.com/places/llm-info) | Accepts | Free or paid | dofollow | form |
+| [lobstercare/mcp-hub](https://listaify.com/places/lobstercare-mcp-hub) | MCP servers only | Free | nofollow | form |
 | [Mad Genius](https://listaify.com/places/mad-genius) | Accepts | Paid | dofollow | form |
 | [MadeWithStack](https://listaify.com/places/madewithstack) | Accepts | Free for a link back | nofollow | form |
 | [MagicBox.tools](https://listaify.com/places/magicbox-tools) | Accepts | Free for a badge on your site | dofollow | form |
+| [ManyTools.ai](https://listaify.com/places/manytools-ai) | Accepts | Not stated | dofollow | form |
+| [MaxAEO](https://listaify.com/places/maxaeo) | AI marketing tools only | Free | sponsored | form |
 | [MCP Hub](https://listaify.com/places/mcp-hub) | MCP servers and agent tools | Free | nofollow | form |
 | [MCP Registry](https://listaify.com/places/mcp-registry) | MCP servers only | Free | not stated | form |
 | [MCP Server Finder](https://listaify.com/places/mcp-server-finder) | MCP servers only | Not stated | not stated | form |
+| [MCP Server Hub](https://listaify.com/places/mcp-server-hub) | MCP servers and clients only | Free | nofollow | form |
+| [MCP Server Spot](https://listaify.com/places/mcp-server-spot) | MCP servers only | Not stated | dofollow | form |
 | [MCP Store](https://listaify.com/places/mcp-store) | MCP servers only | Not stated | not stated | form |
+| [MCP Trove](https://listaify.com/places/mcp-trove) | MCP servers only | Free or paid | nofollow | form |
 | [MCP.Directory](https://listaify.com/places/mcp-directory) | MCP servers and skills only | Free or paid | nofollow | form |
+| [MCPExplorer](https://listaify.com/places/mcpexplorer) | MCP servers only | Not stated | dofollow | form |
+| [MCPM MCP Server Registry (pathintegral-institute/mcpm.sh)](https://listaify.com/places/pathintegral-institute-mcpm-sh) | MCP servers only | Free | not stated | form |
+| [MCPVault](https://listaify.com/places/mcpvault) | MCP servers only | Free or paid | dofollow | form |
+| [MobinX/awesome-mcp-list](https://listaify.com/places/mobinx-awesome-mcp-list) | MCP servers on GitHub only | Free | nofollow | form |
+| [MOEA AI工具庫](https://listaify.com/places/moea-ai-tools-library) | Taiwan-registered firms only | Not stated | not stated | form |
+| [Mridul.Tech AI Directory](https://listaify.com/places/mridul-tech) | Accepts | Not stated | not stated | form |
+| [NaviAI](https://listaify.com/places/naviai) | Accepts | Free | dofollow | form |
+| [NavifyAI](https://listaify.com/places/navifyai) | Accepts | Free | dofollow | form |
 | [NAVS](https://listaify.com/places/navs) | Accepts | Free or paid | nofollow | form |
 | [NavTools AI](https://listaify.com/places/navtools-ai) | Accepts | Free or paid | nofollow | form |
+| [NeiroAI](https://listaify.com/places/neiroai) | Accepts | Paid | nofollow | form |
+| [NeuroFolder](https://listaify.com/places/neurofolder) | Accepts | Paid | dofollow | form |
 | [NewTools.site](https://listaify.com/places/newtools-site) | Accepts | Free for a link back | dofollow | form |
+| [Next Vibe AI](https://listaify.com/places/next-vibe-ai) | Accepts | Paid | nofollow | form |
 | [Next Week AI](https://listaify.com/places/next-week-ai) | Accepts | Free | nofollow | form |
 | [NextGenTools](https://listaify.com/places/nextgentools) | Accepts | Free or paid | nofollow | form |
+| [NipunaRanasinghe/awesome-ai-agents](https://listaify.com/places/nipunaranasinghe-awesome-ai-agents) | Needs use beyond the author | Free | nofollow | form |
+| [Not Human Search](https://listaify.com/places/not-human-search) | Accepts | Free | dofollow | form |
+| [NovaTools](https://listaify.com/places/novatools) | Accepts | Free or paid | nofollow | form |
 | [Open Pedia AI](https://listaify.com/places/openpedia) | Accepts | Paid | dofollow | form |
+| [OpenClaw Directory](https://listaify.com/places/openclaw-directory) | OpenClaw skills and plugins | Not stated | dofollow | form |
+| [OpenGPT](https://listaify.com/places/opengpt) | AI agents and models only | Not stated | dofollow | form |
 | [Owwly](https://listaify.com/places/owwly) | Accepts | Free or paid | not stated | form |
+| [Perchance AI](https://listaify.com/places/perchance-ai) | Accepts | Paid | dofollow | form |
 | [PerfectStack.ai](https://listaify.com/places/perfectstack-ai) | Accepts | On request | nofollow | form |
+| [PickApps](https://listaify.com/places/pickapps) | Accepts | Free for a link back | nofollow | form |
+| [Piebald-AI/awesome-gemini-cli](https://listaify.com/places/piebald-ai-awesome-gemini-cli) | Gemini CLI projects only | Free | nofollow | form |
+| [pingan8787/awesome-ai-tools](https://listaify.com/places/pingan8787-awesome-ai-tools) | Accepts | Free | nofollow | form |
 | [PluginMarketplace.ai](https://listaify.com/places/pluginmarketplace-ai) | Claude Code plugins only | Not stated | not stated | form |
 | [PopWebTools](https://listaify.com/places/popwebtools) | Accepts | Free for a link back | nofollow | form |
 | [Power Up Tools](https://listaify.com/places/power-up-tools) | Accepts | Not stated | dofollow | form |
 | [PoweredbyAI](https://listaify.com/places/poweredbyai) | Accepts | Paid | dofollow | form |
 | [Powerusers AI](https://listaify.com/places/powerusers-ai) | Launched products only | Paid | dofollow | form |
 | [ProductHubX](https://listaify.com/places/producthubx) | Accepts | Not stated | dofollow | form |
+| [Projectpedia](https://listaify.com/places/projectpedia) | Accepts | Not stated | dofollow | form |
+| [punkpeye/awesome-mcp-devtools](https://listaify.com/places/punkpeye-awesome-mcp-devtools) | MCP developer tools only | Free | nofollow | form |
 | [punkpeye/awesome-mcp-servers](https://listaify.com/places/punkpeye-awesome-mcp-servers) | Public GitHub MCP servers only | Free | nofollow | form |
 | [RankmyAI](https://listaify.com/places/rankmyai) | Accepts | Free | nofollow | form |
 | [RankYourAI](https://listaify.com/places/rankyourai) | Accepts | Paid | dofollow | form |
+| [Rise of Machine](https://listaify.com/places/rise-of-machine) | Accepts | Not stated | dofollow | form |
 | [SaaS AI Tools](https://listaify.com/places/saas-ai-tools) | Accepts | Free or paid | nofollow | form |
 | [ScriptByAI](https://listaify.com/places/scriptbyai) | Free or freemium tools only | Free | nofollow | form |
+| [See AI First](https://listaify.com/places/see-ai-first) | AI dev tools, 5K+ stars | Free | not stated | form |
+| [SeekAIs](https://listaify.com/places/seekais) | Accepts | Free for a link back | dofollow | form |
 | [SeeWhatNewAI](https://listaify.com/places/seewhatnewai) | Accepts | Free for a link back | dofollow | form |
 | [SEOFAI](https://listaify.com/places/seofai) | Accepts | Paid | nofollow | form |
 | [ShipGrowth](https://listaify.com/places/shipgrowth) | Accepts | Free for a link back | dofollow | form |
 | [SimplifyAITools](https://listaify.com/places/simplifyaitools) | Accepts | Paid | nofollow | form |
+| [SkillsClaude](https://listaify.com/places/skillsclaude) | Claude skills on GitHub only | Free | dofollow | form |
+| [slavakurilyak/awesome-ai-agents](https://listaify.com/places/slavakurilyak-awesome-ai-agents) | Public code repository only | Free | nofollow | form |
+| [Smacient AI Tools](https://listaify.com/places/smacient-ai-tools) | Accepts | Paid | nofollow | form |
+| [Somi AI](https://listaify.com/places/somi-ai) | Accepts | Paid | dofollow | form |
 | [Spiff.store](https://listaify.com/places/spiff-store) | Accepts | Free or paid | nofollow | form |
 | [Stackviv](https://listaify.com/places/stackviv) | Accepts | Not stated | nofollow | form |
 | [Startup AI Tools](https://listaify.com/places/startup-ai-tools) | Accepts | Paid | dofollow | form |
 | [Startup AIdeas](https://listaify.com/places/startup-aideas) | Accepts | Not stated | not stated | form |
+| [steven2358/awesome-generative-ai](https://listaify.com/places/steven2358-awesome-generative-ai) | Accepts | Free | nofollow | form |
+| [Strix.ge](https://listaify.com/places/strix-ge) | Georgian description needed | Free | dofollow | form |
 | [Submit AI Agent](https://listaify.com/places/submit-ai-agent) | AI agents only | Paid | not stated | form |
+| [Submit Your AI Tool](https://listaify.com/places/submityouraitool) | Accepts | Free | nofollow | form |
 | [SuperAITools](https://listaify.com/places/superaitools) | Accepts | Not stated | not stated | form |
 | [T0 AI](https://listaify.com/places/t0-ai) | Accepts | Free for a link back | dofollow | form |
+| [tankvn/awesome-ai-tools](https://listaify.com/places/tankvn-awesome-ai-tools) | Over 128 GitHub stars | Free | nofollow | form |
 | [Tap4 AI](https://listaify.com/places/tap4-ai) | Accepts | Paid | dofollow | form |
 | [Tap4 AI Directory](https://listaify.com/places/tap4-ai-directory) | Accepts | Free for a link back | nofollow | form |
+| [TensorBlock/awesome-mcp-servers](https://listaify.com/places/tensorblock-awesome-mcp-servers) | MCP servers only | Free | nofollow | form |
+| [Thaka Tools](https://listaify.com/places/thaka-tools) | Accepts | Not stated | dofollow | form |
 | [Thank John](https://listaify.com/places/thank-john) | Accepts | Free for a link back | nofollow | form |
 | [That AI Collection](https://listaify.com/places/that-ai-collection) | Accepts | Paid | dofollow | form |
 | [ThatsMyAI](https://listaify.com/places/thatsmyai) | Accepts | Free or paid | nofollow | form |
@@ -312,14 +519,29 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [The AI Library](https://listaify.com/places/the-ai-library) | Accepts | Free or paid | dofollow | form |
 | [The AI Navigator](https://listaify.com/places/the-ai-navigator) | Accepts | Not stated | not stated | form |
 | [The AI Surf](https://listaify.com/places/the-ai-surf) | Accepts | Paid | dofollow | form |
+| [The AI Tools Index](https://listaify.com/places/the-ai-tools-index) | Accepts | Free for a link back | dofollow | form |
+| [The List](https://listaify.com/places/the-list-design) | AI tools for designers only | Free | dofollow | form |
 | [The Next AI](https://listaify.com/places/the-next-ai) | Accepts | Free or paid | nofollow | form |
+| [The Tool Bus](https://listaify.com/places/thetoolbus) | Accepts | Free or paid | sponsored | form |
+| [The Top AI Tools](https://listaify.com/places/the-top-ai-tools) | Accepts | Free or paid | dofollow | form |
+| [TheAI學院](https://listaify.com/places/theai-tw) | Accepts | Paid | nofollow | form |
+| [TheToolsVerse](https://listaify.com/places/thetoolsverse) | Accepts | Free or paid | dofollow | form |
+| [TiorAI](https://listaify.com/places/tiorai) | Accepts | Not stated | nofollow | form |
 | [TipSeason](https://listaify.com/places/tipseason) | Accepts | Free or paid | nofollow | form |
+| [Tool0](https://listaify.com/places/tool0) | Accepts | Not stated | not stated | form |
+| [Toolactive](https://listaify.com/places/toolactive) | Accepts | Not stated | dofollow | form |
+| [ToolAdvisor](https://listaify.com/places/tooladvisor) | Accepts | On request | not stated | form |
 | [ToolBloom](https://listaify.com/places/toolbloom) | Accepts | Paid | nofollow | form |
 | [ToolChase](https://listaify.com/places/toolchase) | Accepts | Paid | sponsored | form |
 | [ToolDirectory.AI](https://listaify.com/places/tooldirectory-ai) | Launched products only | Paid | dofollow | form |
 | [ToolDisk](https://listaify.com/places/tooldisk) | Accepts | Free with a footer link back | dofollow | form |
+| [ToolFlow](https://listaify.com/places/ai-toolflow) | Accepts | Not stated | dofollow | form |
 | [Toolhunter](https://listaify.com/places/toolhunter) | Accepts | Free | nofollow | form |
+| [ToolifyAI 中文导航](https://listaify.com/places/toolifyai-cn) | Accepts | Not stated | not stated | form |
+| [toolin.ai](https://listaify.com/places/toolin-ai) | Accepts | Free or paid | dofollow | form |
 | [Toolio](https://listaify.com/places/toolio) | Accepts | Paid | dofollow | form |
+| [ToolJunction](https://listaify.com/places/tooljunction) | Accepts | Paid | dofollow | form |
+| [ToolKiti](https://listaify.com/places/toolkiti) | APIs and developer tools only | Free or paid | dofollow | form |
 | [Toolkitly](https://listaify.com/places/toolkitly) | Accepts | Paid | sponsored | form |
 | [toollist.ai](https://listaify.com/places/toollist) | Accepts | Paid | dofollow | form |
 | [ToolListed](https://listaify.com/places/toollisted) | Accepts | Free for a link back | dofollow | form |
@@ -327,29 +549,68 @@ Full terms for every one: [listaify.com/ai-directories](https://listaify.com/ai-
 | [Toolnest](https://listaify.com/places/toolnest) | Accepts | Free or paid | dofollow | form |
 | [Toolplate](https://listaify.com/places/toolplate) | Accepts | Free or paid | dofollow | form |
 | [Tools AI Online](https://listaify.com/places/tools-ai-online) | Accepts | Free or paid | dofollow | form |
+| [ToolsAIApp](https://listaify.com/places/toolsaiapp) | Accepts | Free or paid | nofollow | form |
 | [ToolsClaw](https://listaify.com/places/toolsclaw) | Accepts | Free for a link back | dofollow | form |
 | [ToolScout](https://listaify.com/places/toolscout) | Accepts | Free or paid | sponsored | form |
+| [ToolSDK MCP Registry](https://listaify.com/places/toolsdk-ai-toolsdk-mcp-registry) | Published MCP servers only | Free | nofollow | form |
 | [ToolsFine](https://listaify.com/places/toolsfine) | Accepts | Paid | dofollow | form |
 | [ToolsForHumans](https://listaify.com/places/toolsforhumans) | Accepts | On request | dofollow | form |
 | [ToolsNoCode](https://listaify.com/places/toolsnocode) | Accepts | Not stated | dofollow | — |
+| [Toolso.AI](https://listaify.com/places/toolso-ai) | Accepts | Free for a link back | nofollow | form |
 | [ToolsPedia](https://listaify.com/places/toolspedia) | Accepts | Paid | dofollow | form |
+| [Tooluck](https://listaify.com/places/tooluck) | Accepts | Free for a link back | dofollow | form |
+| [Top AI Repos](https://listaify.com/places/top-ai-repos) | Open-source GitHub repos only | Not stated | dofollow | form |
+| [Top AI Tools](https://listaify.com/places/topaitools-com) | Accepts | Paid | not stated | form |
+| [Top AI Tools](https://listaify.com/places/top-ai-tools) | Accepts | Free or paid | dofollow | form |
+| [TopAITools4U](https://listaify.com/places/topaitools4u) | Accepts | Free for a link back | dofollow | form |
 | [Totool](https://listaify.com/places/totool) | Accepts | Free or paid | dofollow | form |
 | [Trending AI Tools](https://listaify.com/places/trendingaitools) | Accepts | Paid | dofollow | form |
 | [TrillionAgent](https://listaify.com/places/trillionagent) | AI agents only | Free or paid | not stated | form |
+| [Unlimited AI Tools](https://listaify.com/places/unlimited-ai-tools) | Accepts | Free or paid | nofollow | form |
+| [Vantaige](https://listaify.com/places/vantaige) | Accepts | Free or paid | nofollow | form |
 | [Verified Tools](https://listaify.com/places/verified-tools) | Accepts | Free or paid | nofollow | form |
+| [vibcod.dev](https://listaify.com/places/vibcod-dev) | Built with an AI assistant | Free | dofollow | form |
+| [Vibe Coding](https://listaify.com/places/vibe-coding) | AI coding and dev tools only | Free for a link back | dofollow | form |
+| [VibeCodersZone](https://listaify.com/places/vibecoderszone) | Accepts | Free or paid | dofollow | form |
+| [Vibecoding.app](https://listaify.com/places/vibecoding-app) | AI coding tools only | Free or paid | nofollow | form |
+| [VibeKing](https://listaify.com/places/vibeking) | Accepts | Free for a link back | dofollow | form |
+| [VibeRank](https://listaify.com/places/viberank) | AI-built B2B apps only | Not stated | dofollow | form |
 | [Victrays](https://listaify.com/places/victrays) | Accepts | Paid | nofollow | form |
+| [Vinggle](https://listaify.com/places/vinggle) | Accepts | Free or paid | nofollow | form |
 | [VKMO AI](https://listaify.com/places/vkmo-ai) | Accepts | Free or paid | not stated | form |
+| [VoltAgent/awesome-agent-skills](https://listaify.com/places/voltagent-awesome-agent-skills) | Proven agent skills only | Free or paid | nofollow | form |
+| [VoltAgent/awesome-openclaw-skills](https://listaify.com/places/voltagent-awesome-openclaw-skills) | OpenClaw skills only | Free or paid | nofollow | form |
 | [Waild World](https://listaify.com/places/waild-world) | Accepts | Free | dofollow | form |
 | [Wavel](https://listaify.com/places/wavel) | Accepts | Paid | dofollow | form |
 | [Wayfindio](https://listaify.com/places/wayfindio) | Accepts | Free for a link back | dofollow | form |
+| [Welcome.AI](https://listaify.com/places/welcome-ai) | Accepts | Not stated | dofollow | form |
 | [WhatTheAI](https://listaify.com/places/whattheai) | Accepts | Free or paid | dofollow | form |
+| [WIO AI](https://listaify.com/places/wio-ai) | Accepts | Free | dofollow | form |
 | [YAATD](https://listaify.com/places/yaatd) | Accepts | Free or paid | nofollow | form |
+| [yangmao.ai](https://listaify.com/places/yangmao-ai) | Free tiers and deals only | Free or paid | dofollow | form |
+| [YiceKit](https://listaify.com/places/yicekit) | Accepts | Not stated | dofollow | form |
 | [Your AI Hunt](https://listaify.com/places/your-ai-hunt) | Accepts | Free for a link back | dofollow | form |
+| [YourAIProject](https://listaify.com/places/youraiproject) | Built with AI coding tools | Free | dofollow | form |
 | [YourFirstApp](https://listaify.com/places/yourfirstapp) | Accepts | Free or paid | nofollow | form |
 | [YouTools.ai](https://listaify.com/places/youtools-ai) | Accepts | Free or paid | nofollow | form |
+| [yzfly/Awesome-MCP-ZH](https://listaify.com/places/yzfly-awesome-mcp-zh) | MCP tools for Chinese users | Free | nofollow | form |
+| [yzfly/awesome-voice-agents](https://listaify.com/places/yzfly-awesome-voice-agents) | Voice AI agents only | Free | nofollow | form |
+| [Zekai](https://listaify.com/places/zekai) | Launched products only | Free or paid | nofollow | form |
 | [ZPlatform AI](https://listaify.com/places/zplatform-ai) | Launched products only | Free with their badge | nofollow | form |
+| [全能公式](https://listaify.com/places/quanneng-gongshi) | Accepts | Free | dofollow | form |
+| [六耳AI工具中文导航站](https://listaify.com/places/ainavtool) | Accepts | Not stated | dofollow | form |
+| [发现AI (Faxian AI)](https://listaify.com/places/faxianai) | Accepts | Free for a link back | nofollow | form |
+| [嘉名AI导航](https://listaify.com/places/jiaming-ai-nav) | Accepts | Free or paid | sponsored | form |
+| [图钉AI导航](https://listaify.com/places/tudingai) | Accepts | Paid | not stated | form |
+| [工具导航](https://listaify.com/places/aidh-site) | Accepts | Not stated | not stated | form |
 | [映技派](https://listaify.com/places/yjpoo) | Accepts | Free or paid | nofollow | form |
+| [曼巴比特](https://listaify.com/places/mambabit) | ICP-filed sites only | Not stated | nofollow | form |
+| [热卡卡AI导航](https://listaify.com/places/aidh-cn) | Accepts | On request | not stated | form |
+| [爱AI导航](https://listaify.com/places/iai88) | Accepts | Not stated | not stated | form |
+| [猫目 (Maomu)](https://listaify.com/places/maomu) | Accepts | Free or paid | dofollow | form |
+| [生成AI比較](https://listaify.com/places/genai-compare) | Accepts | Not stated | not stated | form |
 | [老北鼻AI工具箱 (LBBAI)](https://listaify.com/places/lbbai) | Accepts | Not stated | dofollow | form |
+| [非猪ai导航 (Feizhuke)](https://listaify.com/places/feizhuke) | Accepts | On request | nofollow | form |
 
 ## SaaS directories and review sites
 
@@ -407,10 +668,12 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [selfh.st Apps](https://listaify.com/places/selfh-st-apps) | Self-hosted software only | Free or paid | dofollow | form |
 | [SaaS Browser](https://listaify.com/places/saasbrowser) | Accepts | Not stated | not stated | form |
 | [Findstack](https://listaify.com/places/findstack) | Accepts | Free or paid | nofollow | form |
+| [ITreview](https://listaify.com/places/itreview) | B2B software only | Free or paid | dofollow | form |
 | [SpotSaaS](https://listaify.com/places/spotsaas) | B2B software only | Free or paid | not stated | form |
 | [Startup Fame](https://listaify.com/places/startup-fame) | Accepts | Free for a link back | dofollow | form |
 | [SelectSoftware Reviews](https://listaify.com/places/selectsoftware-reviews) | HR and recruiting tools only | Free or paid | sponsored | form |
 | [Software Finder](https://listaify.com/places/software-finder) | Accepts | Free or paid | not stated | form |
+| [BOXIL](https://listaify.com/places/boxil) | B2B software and BPO only | On request | not stated | form |
 | [Siteefy](https://listaify.com/places/siteefy) | Accepts | Free or paid | nofollow | form |
 | [Techimply](https://listaify.com/places/techimply) | Accepts | Free | not stated | form |
 | [AppAgg](https://listaify.com/places/appagg) | Apps in app stores only | Free | not stated | form |
@@ -428,6 +691,7 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [Software Connect](https://listaify.com/places/softwareconnect) | Business software only | On request | dofollow | form |
 | [OpenAlternative](https://listaify.com/places/openalternative) | Open source only | Free for open source | nofollow | form |
 | [Wired Business](https://listaify.com/places/wired-business) | Accepts | Free for a link back | dofollow | form |
+| [Educational App Store](https://listaify.com/places/educational-app-store) | Learning apps and tools only | Paid | not stated | form |
 | [Shortlister](https://listaify.com/places/shortlister) | HR and benefits vendors only | Free or paid | not stated | form |
 | [10015 Tools](https://listaify.com/places/10015-tools) | Accepts | Free or paid | nofollow | form |
 | [36氪企服点评](https://listaify.com/places/36dianping) | Enterprise software only | Not stated | not stated | form |
@@ -436,55 +700,80 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [Terminal Trove](https://listaify.com/places/terminal-trove) | Terminal tools only | Not stated | not stated | form |
 | [Minimal Gallery](https://listaify.com/places/minimal-gallery) | Web design showcase only | Free or paid | dofollow | form |
 | [Appvizer](https://listaify.com/places/appvizer) | B2B SaaS only | Free or paid | not stated | — |
+| [EdTech Impact](https://listaify.com/places/edtech-impact) | EdTech products only | Free or paid | not stated | form |
 | [Saaspo](https://listaify.com/places/saaspo) | Curated SaaS site designs | Free or paid | not stated | form |
 | [eBool](https://listaify.com/places/ebool) | Accepts | Free or paid | nofollow | form |
 | [AllTopStartups](https://listaify.com/places/alltopstartups) | Accepts | Paid | dofollow | form |
 | [Tekpon](https://listaify.com/places/tekpon) | Accepts | Paid | nofollow | form |
 | [Landingfolio](https://listaify.com/places/landingfolio) | Accepts | Membership from $1.99 a week | nofollow | form |
+| [SoftGuide](https://listaify.com/places/softguide) | Business software only | On request | not stated | form |
 | [Startup Buffer](https://listaify.com/places/startup-buffer) | Accepts | Free or paid | dofollow | form |
 | [ToolFame](https://listaify.com/places/toolfame) | Accepts | Free for a link back | dofollow | form |
 | [neeed Directory](https://listaify.com/places/neeed) | Accepts | Free or paid | dofollow | form |
 | [SaaS Landing Page](https://listaify.com/places/saas-landing-page) | Accepts | Paid | nofollow | form |
 | [NewTool](https://listaify.com/places/newtool) | Accepts | Free for a link back | dofollow | form |
 | [Subscribed.fyi](https://listaify.com/places/subscribed-fyi) | Accepts | Not stated | not stated | form |
+| [起業LOG SaaS](https://listaify.com/places/kigyolog-saas) | Business software only | On request | not stated | form |
 | [BoilerplateHub](https://listaify.com/places/boilerplatehub) | Boilerplates only | Free or paid | nofollow | form |
 | [Godly](https://listaify.com/places/godly) | Accepts | Free or paid | dofollow | form |
 | [Cuspera](https://listaify.com/places/cuspera) | Marketing and sales tools only | Free | dofollow | form |
 | [Hive Index](https://listaify.com/places/hive-index) | Online communities only | Free or paid | nofollow | form |
 | [1000.tools](https://listaify.com/places/1000-dot-tools) | Accepts | $5.99 a month | dofollow | form |
+| [1800DTC](https://listaify.com/places/1800dtc) | DTC e-commerce tools only | Free or paid | sponsored | form |
 | [1c7/chinese-independent-developer](https://listaify.com/places/1c7-chinese-independent-developer) | Chinese indie developers only | Free | not stated | form |
 | [1payment Tools](https://listaify.com/places/1payment-tools) | One-time payment tools only | Not stated | not stated | form |
 | [600.tools](https://listaify.com/places/600-tools) | Accepts | Free for a link back | dofollow | form |
 | [A1 Gallery](https://listaify.com/places/a1-gallery) | Accepts | Free or paid | dofollow | form |
 | [ABABTOOLS](https://listaify.com/places/ababtools) | Indie devs and open source | Free or paid | not stated | form |
 | [Admire The Web](https://listaify.com/places/admire-the-web) | Well-designed sites only | Paid | dofollow | form |
+| [Adsly](https://listaify.com/places/adsly) | Accepts | Free for a link back | dofollow | form |
+| [agamm/awesome-developer-first](https://listaify.com/places/agamm-awesome-developer-first) | Developer-first products only | Free | nofollow | form |
+| [All SaaS Software Directory](https://listaify.com/places/all-saas-software) | Accepts | Free or paid | nofollow | form |
 | [Alt Hunt](https://listaify.com/places/alt-hunt) | Accepts | Free | dofollow | form |
 | [AlterBase](https://listaify.com/places/alterbase) | Accepts | Free or paid | nofollow | form |
 | [Alternative.tools](https://listaify.com/places/alternative-tools) | Live products only | Free for a link back | dofollow | form |
 | [Altimateguide](https://listaify.com/places/altimateguide) | Accepts | Free or paid | dofollow | form |
+| [altstackHQ/altstack-data](https://listaify.com/places/altstackhq-altstack-data) | Open-source alternatives only | Free | nofollow | form |
 | [Ant Directory](https://listaify.com/places/ant-directory) | Accepts | Free or paid | dofollow | form |
 | [API List](https://listaify.com/places/api-list) | APIs only | Free or paid | nofollow | form |
 | [API Tracker](https://listaify.com/places/api-tracker) | APIs and MCP servers only | Not stated | dofollow | email |
+| [ApisList](https://listaify.com/places/apislist) | Public APIs only | Free or paid | nofollow | form |
 | [App Hub List](https://listaify.com/places/apphublist) | Accepts | Not stated | dofollow | form |
+| [AppsArc](https://listaify.com/places/appsarc) | Accepts | Not stated | nofollow | form |
 | [Appsy Tools](https://listaify.com/places/appsy-tools) | Accepts | Not stated | not stated | form |
+| [Appysmarts](https://listaify.com/places/appysmarts) | Kids' apps only | Free | dofollow | form |
+| [aviaryan/awesome-no-login-web-apps](https://listaify.com/places/aviaryan-awesome-no-login-web-apps) | No-login web apps only | Free | nofollow | form |
+| [Awesome Self-Hosted Apps](https://listaify.com/places/awesome-self-hosted-apps) | Self-hosted apps only | Free | dofollow | form |
 | [Awesome Tools](https://listaify.com/places/awesome-tools) | Accepts | Not stated | nofollow | form |
+| [awesome-selfhosted/awesome-selfhosted-data](https://listaify.com/places/awesome-selfhosted-data) | Self-hosted software only | Free | nofollow | form |
 | [B2B Stack](https://listaify.com/places/b2b-stack) | B2B software and services | Not stated | not stated | form |
+| [Best Productivity Resources](https://listaify.com/places/best-productivity-resources) | Accepts | Not stated | not stated | form |
+| [Best SaaS Boilerplates](https://listaify.com/places/best-saas-boilerplates) | SaaS boilerplates only | Free or paid | dofollow | form |
 | [Best Web Design Tools](https://listaify.com/places/best-web-design-tools) | Web design tools and templates | Free or paid | dofollow | form |
 | [BestWebsites.info](https://listaify.com/places/bestwebsites) | Accepts | Free | not stated | form |
 | [BoilerplateList](https://listaify.com/places/boilerplatelist) | Boilerplates only | Free or paid | nofollow | form |
 | [BuildVoyage](https://listaify.com/places/buildvoyage) | Indie micro-SaaS only | Free or paid | dofollow | form |
+| [Business Tool Vault](https://listaify.com/places/business-tool-vault) | Accepts | Not stated | dofollow | form |
 | [Business-Software.com](https://listaify.com/places/business-software) | Business software only | Free | not stated | form |
+| [cjbarber/ToolsOfTheTrade](https://listaify.com/places/cjbarber-toolsofthetrade) | Needs Hacker News coverage | Free | nofollow | form |
 | [CloudFindr](https://listaify.com/places/cloudfindr) | B2B software only | Not stated | sponsored | form |
 | [CloutStack](https://listaify.com/places/cloutstack) | Creator tools only | Free for a link back | dofollow | form |
+| [CodeTrendy](https://listaify.com/places/codetrendy) | Accepts | Free for a link back | nofollow | form |
+| [ColdEmailKit](https://listaify.com/places/coldemailkit) | Cold email tools only | Free or paid | dofollow | form |
 | [ComparaSoftware](https://listaify.com/places/comparasoftware) | Software sold in Mexico | Free or paid | nofollow | form |
 | [ConfettiSaaS](https://listaify.com/places/confettisaas) | Accepts | Free or paid | dofollow | form |
+| [ContentCreators.com](https://listaify.com/places/contentcreators) | Tools for content creators | Not stated | not stated | form |
 | [Conversion Gems](https://listaify.com/places/conversion-gems) | Accepts | Paid | sponsored | form |
+| [CSS Nectar](https://listaify.com/places/css-nectar) | Web design showcase only | Paid | dofollow | form |
 | [Curated](https://listaify.com/places/curated-design) | Well-designed live sites only | Free or paid | dofollow | form |
 | [CybersecTools](https://listaify.com/places/cybersectools) | Cybersecurity products only | Free or paid | not stated | form |
 | [Dark](https://listaify.com/places/dark-design) | Dark-themed sites only | Not stated | dofollow | form |
 | [Dark Mode Design](https://listaify.com/places/dark-mode-design) | Dark mode websites only | Not stated | dofollow | form |
 | [Dev Resources](https://listaify.com/places/dev-resources) | Developer resources only | Free or paid | dofollow | form |
 | [DevPages](https://listaify.com/places/devpages) | Developer tools only | Free or paid | dofollow | form |
+| [DevSuite](https://listaify.com/places/devsuite) | Developer tools only | Free or paid | nofollow | form |
+| [DevTool.io](https://listaify.com/places/devtool-io) | Developer tools only | Free for a link back | nofollow | form |
+| [diegoleme/awesome-open-source-alternatives](https://listaify.com/places/diegoleme-awesome-oss-alternatives) | Open-source alternatives only | Free | nofollow | form |
 | [Digital Stuff We Love](https://listaify.com/places/digital-stuff-we-love) | Tools for NZ community groups | Free | dofollow | form |
 | [Digitool](https://listaify.com/places/digitool) | Accepts | Free or paid | dofollow | form |
 | [Direct2App](https://listaify.com/places/direct2app) | Accepts | Free for a link back | dofollow | form |
@@ -492,25 +781,47 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [Dirs.cc](https://listaify.com/places/dirs-cc) | Accepts | Free for a link back | dofollow | form |
 | [Discover CRM](https://listaify.com/places/discover-crm) | CRM software only | Not stated | not stated | form |
 | [DiscoverCloud](https://listaify.com/places/discovercloud) | B2B products only | Free or paid | dofollow | form |
+| [eferrares/awesome-startup-resources](https://listaify.com/places/eferrares-awesome-startup-resources) | Accepts | Free | nofollow | form |
 | [Endors](https://listaify.com/places/endors) | Accepts | Free or paid | not stated | form |
+| [Endpoint Index](https://listaify.com/places/endpoint-index) | Endpoint security only | Free or paid | dofollow | form |
+| [ERP-Guide.de](https://listaify.com/places/erp-guide) | Business software firms only | Paid | nofollow | form |
 | [EuroAlternative](https://listaify.com/places/euroalternative) | European companies only | Not stated | dofollow | form |
+| [EverFeatured](https://listaify.com/places/everfeatured) | Accepts | Paid | nofollow | form |
+| [EverList](https://listaify.com/places/everlist) | Accepts | Free or paid | dofollow | form |
+| [faith.tools](https://listaify.com/places/faith-tools) | Christian apps only | Free or paid | dofollow | form |
 | [FeaturedTool.com](https://listaify.com/places/featuredtool) | Accepts | Free for a link back | dofollow | form |
 | [Find SaaS Tools](https://listaify.com/places/find-saas-tools) | Accepts | Not stated | not stated | form |
+| [FindAlternate](https://listaify.com/places/findalternate) | Accepts | Free or paid | not stated | form |
 | [findasaas](https://listaify.com/places/findasaas) | Accepts | Free or paid | nofollow | form |
+| [FindUpApp](https://listaify.com/places/findupapp) | Mobile apps only | Free | dofollow | form |
 | [FindYourSaaS](https://listaify.com/places/findyoursaas) | Accepts | Free | nofollow | form |
+| [FOSS Alternatives](https://listaify.com/places/beko2210-foss-alternatives) | Free and open source only | Free | nofollow | form |
+| [Free Alternatives To](https://listaify.com/places/free-alternatives-to) | Tools with a free plan only | Free | nofollow | form |
 | [Free Stuff for Developer](https://listaify.com/places/free-stuff-for-developer) | Free for developers only | Free | nofollow | form |
+| [free-for-dev](https://listaify.com/places/ripienaar-free-for-dev) | Free-tier SaaS for DevOps | Free | nofollow | form |
 | [Funnel Directory](https://listaify.com/places/funnel-directory) | Funnel & marketing tools only | Paid | dofollow | form |
 | [FUUN.FUN](https://listaify.com/places/fuun-fun) | Quirky, creative sites only | Free or paid | not stated | form |
+| [GEOly.net](https://listaify.com/places/geoly) | SEO and GEO tools only | Free for a link back | dofollow | form |
+| [GoPickHost](https://listaify.com/places/gopickhost) | Web and website tools only | Not stated | dofollow | form |
+| [hemanth/awesome-pwa](https://listaify.com/places/hemanth-awesome-pwa) | Progressive web apps only | Free | nofollow | form |
 | [HoTools](https://listaify.com/places/hotools) | Accepts | Free for a link back | dofollow | form |
 | [HowToBuySaaS](https://listaify.com/places/howtobuysaas) | Accepts | Paid | not stated | form |
+| [HR Stacks](https://listaify.com/places/hr-stacks) | HR software only | Not stated | nofollow | form |
+| [HRYP (Human Resources Yellow Pages)](https://listaify.com/places/hryp) | HR software and services only | Paid | not stated | form |
 | [Hunt for Tools](https://listaify.com/places/hunt-for-tools) | Accepts | Not stated | dofollow | form |
 | [Huzzler](https://listaify.com/places/huzzler) | Accepts | Free for a link back | dofollow | form |
+| [Hype Star](https://listaify.com/places/hype-star) | Accepts | Free for a link back | nofollow | form |
+| [Ibexoft/awesome-startup-tools-list](https://listaify.com/places/ibexoft-awesome-startup-tools-list) | Established, with a free plan | Free | nofollow | form |
+| [Impactflow 임팩트플로우](https://listaify.com/places/impactflow) | B2B SaaS only | Not stated | nofollow | form |
 | [Index by Dodo Payments](https://listaify.com/places/index-by-dodo-payments) | Accepts | Free | nofollow | form |
 | [Indie Affiliate](https://listaify.com/places/indie-affiliate) | Affiliate programmes only | Free or paid | not stated | form |
 | [Indie Deals](https://listaify.com/places/indie-deals) | Accepts | Paid | dofollow | form |
+| [Indie Follow](https://listaify.com/places/indie-follow) | Mac apps only | Free | dofollow | form |
 | [Indie Tools](https://listaify.com/places/indie-tools) | Accepts | Free for a link back | nofollow | form |
 | [IndieAscent](https://listaify.com/places/indieascent) | Accepts | Free or paid | nofollow | form |
+| [Indiecorn](https://listaify.com/places/indiecorn) | One-person business tools | Free | dofollow | form |
 | [IndieFame](https://listaify.com/places/indiefame) | Accepts | Not stated | dofollow | form |
+| [IndieFront (独立开发前线)](https://listaify.com/places/indiefront) | Indie developer products only | Not stated | dofollow | form |
 | [IndieHackerStacks](https://listaify.com/places/indiehackerstacks) | Accepts | Free or paid | dofollow | form |
 | [IndieHustles](https://listaify.com/places/indiehustles) | Indie SaaS alternatives only | Free or paid | dofollow | form |
 | [IndieLineup](https://listaify.com/places/indielineup) | Accepts | Free for a link back | dofollow | form |
@@ -518,40 +829,84 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [IndieShowcase](https://listaify.com/places/indieshowcase) | Accepts | Free for a link back | nofollow | form |
 | [IndieTools](https://listaify.com/places/indietools) | Accepts | Free or paid | nofollow | form |
 | [InventList](https://listaify.com/places/inventlist) | Accepts | Free or paid | nofollow | form |
+| [ishanvyas22/awesome-open-source-systems](https://listaify.com/places/ishanvyas22-awesome-open-source-systems) | Open source only | Free | nofollow | form |
+| [isthereanytool.app](https://listaify.com/places/isthereanytool) | Accepts | Free or paid | dofollow | — |
+| [IT-Matchmaker](https://listaify.com/places/it-matchmaker) | Business software only | Free or paid | not stated | form |
 | [Joinly](https://listaify.com/places/joinly) | Accepts | Not stated | dofollow | form |
 | [JustSimple Tools](https://listaify.com/places/justsimple-tools) | Accepts | Free for a link back | dofollow | form |
+| [kairichard/awesome-nocode-lowcode](https://listaify.com/places/kairichard-awesome-nocode-lowcode) | No-code or low-code only | Free | nofollow | form |
+| [Landin Tools](https://listaify.com/places/landin-tools) | Accepts | Free or paid | not stated | form |
+| [Language Tools Directory](https://listaify.com/places/language-tools-directory) | Language learning tools only | Free or paid | nofollow | form |
 | [LaunchPedia](https://listaify.com/places/launchpedia) | Tools for founders and makers | Not stated | not stated | form |
 | [Launchtory](https://listaify.com/places/launchtory) | Accepts | Free or paid | dofollow | form |
+| [Legaltech Hub](https://listaify.com/places/legaltech-hub) | Legal technology only | Not stated | not stated | — |
 | [List Maro](https://listaify.com/places/list-maro) | Accepts | Free or paid | dofollow | form |
 | [ListMySaaS](https://listaify.com/places/listmysaas) | Accepts | Free for a link back | dofollow | form |
+| [LiveBusiness](https://listaify.com/places/livebusiness) | Business software only | Not stated | not stated | form |
+| [MacIgniter](https://listaify.com/places/macigniter) | Mac apps only | Free or paid | nofollow | form |
+| [MacMenuBar](https://listaify.com/places/macmenubar) | Mac menu bar apps only | Free or paid | dofollow | form |
+| [MacNative](https://listaify.com/places/macnative) | Native macOS apps only | Free or paid | dofollow | form |
+| [Made with Laravel](https://listaify.com/places/made-with-laravel) | Laravel projects only | Free | not stated | form |
 | [Made with Lovable](https://listaify.com/places/made-with-lovable) | Built with Lovable only | Free or paid | dofollow | form |
+| [Made with React.js](https://listaify.com/places/madewithreactjs) | React projects only | Not stated | not stated | form |
+| [Made with Svelte](https://listaify.com/places/madewithsvelte) | Svelte projects only | Not stated | not stated | form |
 | [Made With Vue.js](https://listaify.com/places/made-with-vuejs) | Built with Vue.js only | Free or paid | not stated | form |
 | [MakeItLast](https://listaify.com/places/makeitlast) | Accepts | Free or paid | nofollow | form |
 | [Makerlist.io](https://listaify.com/places/makerlist) | Accepts | Not stated | dofollow | form |
+| [ManyTools](https://listaify.com/places/manytools) | Accepts | Not stated | nofollow | form |
 | [Maqtoob](https://listaify.com/places/maqtoob) | Accepts | Free | nofollow | form |
 | [Marketer Tools](https://listaify.com/places/marketer-tools) | Marketing tools only | Free or paid | dofollow | form |
+| [MARKETING-TECH](https://listaify.com/places/marketing-tech) | Accepts | On request | nofollow | form |
 | [MavTools](https://listaify.com/places/mavtools) | Accepts | Not stated | not stated | form |
+| [MEDIAROST](https://listaify.com/places/mediarost) | Accepts | Paid | dofollow | form |
+| [MicroSaaS Directory](https://listaify.com/places/microsaas-directory) | Indie products only | Free or paid | dofollow | form |
+| [Minaoshi (ミナオシ)](https://listaify.com/places/minaoshi) | B2B services only | Free or paid | not stated | form |
+| [MobileFirstLLC/social-media-hacker-list](https://listaify.com/places/mobilefirstllc-social-media-hacker-list) | Social media tools only | Free | nofollow | form |
 | [Mydentify](https://listaify.com/places/mydentify) | Accepts | Free for a link back | dofollow | form |
+| [n0shake/Public-APIs](https://listaify.com/places/n0shake-public-apis) | Public APIs only | Free | nofollow | form |
 | [NavFolders](https://listaify.com/places/navfolders) | Accepts | Free for a link back | dofollow | form |
+| [NeeeD](https://listaify.com/places/neeed-jp) | B2B software and services | Free or paid | dofollow | form |
+| [New SaaSly](https://listaify.com/places/new-saasly) | Accepts | Paid | dofollow | form |
 | [No Code Founders](https://listaify.com/places/no-code-founders) | Accepts | Paid | dofollow | form |
 | [NoCodeFinder](https://listaify.com/places/nocodefinder) | No-code tools only | Not stated | nofollow | form |
 | [NoCodeList](https://listaify.com/places/nocodelist) | No-code tools only | Free or paid | not stated | form |
+| [ON REPORT](https://listaify.com/places/onreport) | Accepts | Paid | not stated | form |
 | [once.tools](https://listaify.com/places/once-tools) | One-time purchase tools only | Not stated | nofollow | form |
+| [Open App Scout](https://listaify.com/places/open-app-scout) | Open source apps only | Free | dofollow | form |
+| [Open Source Software Directory](https://listaify.com/places/open-source-software-directory) | Open source only | Not stated | dofollow | form |
 | [Open Source Startups](https://listaify.com/places/open-source-startups) | Open source only | Free | nofollow | form |
+| [OpenAltFinder](https://listaify.com/places/openaltfinder) | Open source only | Free or paid | dofollow | form |
 | [OpenSaasDirectory](https://listaify.com/places/opensaasdirectory) | Open source only | Free or paid | dofollow | form |
 | [opensourcealternative.to](https://listaify.com/places/opensourcealternative-to) | Open source only | Free or paid | dofollow | form |
+| [OpenSourceChoice](https://listaify.com/places/opensourcechoice) | Open source only | Free for open source | dofollow | form |
 | [OpenSourceProjects](https://listaify.com/places/opensourceprojects) | Open source only | Free or paid | nofollow | form |
+| [outdr.lol](https://listaify.com/places/outdr-lol) | Accepts | Free for a link back | dofollow | form |
+| [oxnr/awesome-analytics](https://listaify.com/places/oxnr-awesome-analytics) | Analytics tools only | Free | nofollow | form |
 | [PayOnceApps](https://listaify.com/places/payonceapps) | One-time purchase apps only | Free or paid | nofollow | form |
+| [PayOnceUseForever](https://listaify.com/places/payonceuseforever) | Lifetime deals only | Not stated | dofollow | form |
+| [pcqpcq/open-source-android-apps](https://listaify.com/places/pcqpcq-open-source-android-apps) | Open source Android apps only | Free | nofollow | form |
+| [PhotoToolFinder](https://listaify.com/places/phototoolfinder) | Photo editing tools only | Free or paid | dofollow | form |
+| [Phyco](https://listaify.com/places/phyco) | Accepts | Free | nofollow | form |
+| [pickTech](https://listaify.com/places/picktech) | Accepts | Free or paid | dofollow | form |
 | [Platforms Directory](https://listaify.com/places/platforms-directory) | Accepts | Free or paid | not stated | form |
 | [Postmake](https://listaify.com/places/postmake) | Accepts | Free for a link back | dofollow | form |
+| [princepal9120/awesome-solo-founder-oss](https://listaify.com/places/princepal9120-awesome-solo-founder-oss) | Open or source-available only | Free | nofollow | form |
+| [Product Will](https://listaify.com/places/product-will) | Accepts | Free for a link back | dofollow | form |
 | [Productivity Directory](https://listaify.com/places/productivity-directory) | Productivity tools only | Not stated | dofollow | form |
 | [Public APIs](https://listaify.com/places/public-apis) | Products with an API only | Free or paid | dofollow | form |
+| [public-api-lists/public-api-lists](https://listaify.com/places/public-api-lists) | Free public APIs only | Free or paid | nofollow | form |
+| [Pulse by Welodge](https://listaify.com/places/pulse-by-welodge) | Accepts | Not stated | not stated | form |
+| [PWA Directory](https://listaify.com/places/pwa-directory) | Installable web apps only | Free or paid | dofollow | form |
 | [Resource.fyi](https://listaify.com/places/resource-fyi) | Accepts | Free | nofollow | form |
+| [RevManic](https://listaify.com/places/revmanic) | Sales tools only | Not stated | nofollow | form |
 | [Roozna](https://listaify.com/places/roozna) | Accepts | Free for a link back | dofollow | form |
 | [SaaS Cubes](https://listaify.com/places/saas-cubes) | Accepts | Free for a link back | dofollow | form |
+| [SaaS Directory](https://listaify.com/places/saas-directory) | Accepts | Free for a link back | dofollow | form |
+| [SaaS Radius](https://listaify.com/places/saas-radius) | Accepts | Free | dofollow | form |
 | [SaaS Surf](https://listaify.com/places/saas-surf) | Accepts | Free or paid | nofollow | form |
 | [SaaS.fyi](https://listaify.com/places/saas-fyi) | Accepts | Free with a badge | dofollow | form |
 | [SaaSBison](https://listaify.com/places/saasbison) | Accepts | Free for a link back | dofollow | form |
+| [SaasDB](https://listaify.com/places/saasdb) | Accepts | Free for a link back | nofollow | form |
 | [SaaSFame](https://listaify.com/places/saasfame) | Accepts | Free for a link back | dofollow | form |
 | [SaaSHunt](https://listaify.com/places/saashunt-net) | Accepts | Free or paid | nofollow | form |
 | [SaaSLineup](https://listaify.com/places/saaslineup) | Accepts | Free for a link back | dofollow | form |
@@ -562,10 +917,21 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [Saassy Board](https://listaify.com/places/saassy-board) | Revenue shown publicly | Paid | dofollow | form |
 | [Same Product](https://listaify.com/places/same-product) | Accepts | Free for a link back | dofollow | form |
 | [Scout Forge](https://listaify.com/places/scout-forge) | Accepts | Free or paid | nofollow | form |
+| [SelfHostTools](https://listaify.com/places/selfhosttools) | Open-source self-hosted only | Free | dofollow | form |
+| [sfermigier/awesome-foss-alternatives](https://listaify.com/places/sfermigier-awesome-foss-alternatives) | Free or open source only | Free | nofollow | form |
+| [Shipitsoon](https://listaify.com/places/shipitsoon) | Accepts | Not stated | dofollow | form |
 | [ShowMeYourSite](https://listaify.com/places/showmeyoursite) | Accepts | Free for a link back | nofollow | form |
+| [Slick Media](https://listaify.com/places/slick-media) | Accepts | On request | sponsored | form |
 | [So Product](https://listaify.com/places/so-product) | Accepts | Free for a link back | dofollow | form |
+| [SoftRankings](https://listaify.com/places/softrankings) | Accepts | Free | dofollow | form |
 | [Software on the Web](https://listaify.com/places/software-on-the-web) | Accepts | Free | nofollow | form |
+| [software-listing.com](https://listaify.com/places/software-listing) | Southeast Asia markets only | Free | nofollow | form |
+| [SoftwareBunch](https://listaify.com/places/softwarebunch) | Accepts | Not stated | dofollow | form |
+| [SparkBites](https://listaify.com/places/sparkbites) | Well-designed sites only | Free | dofollow | form |
 | [Sprout24](https://listaify.com/places/sprout24) | Email and martech tools | Free | sponsored | form |
+| [StackLedge](https://listaify.com/places/stackledge) | Accepts | Free or paid | nofollow | form |
+| [StartFast](https://listaify.com/places/startfast) | Accepts | Not stated | nofollow | form |
+| [Startup Alternatives](https://listaify.com/places/startup-alternatives) | Alternatives to known tools | Free | dofollow | form |
 | [Startup Benchmarks](https://listaify.com/places/startup-benchmarks) | Accepts | Not stated | nofollow | form |
 | [Startup Collections](https://listaify.com/places/startup-collections) | Accepts | Not stated | not stated | form |
 | [Startup Dope](https://listaify.com/places/startup-dope) | Accepts | Free or paid | dofollow | form |
@@ -573,34 +939,60 @@ Full terms for every one: [listaify.com/saas-directories](https://listaify.com/s
 | [Startup Listing](https://listaify.com/places/startup-listing) | Accepts | Free or paid | dofollow | form |
 | [Startup Videos](https://listaify.com/places/startup-videos) | Brand and product videos only | Free or paid | not stated | form |
 | [Startup88](https://listaify.com/places/startup88) | Accepts | Free or paid | nofollow | form |
+| [StartupDirectory](https://listaify.com/places/startupdirectory) | Accepts | Free for a link back | dofollow | form |
 | [SubmitForBacklinks](https://listaify.com/places/submitforbacklinks) | Live products or previews only | Free with a reciprocal badge | nofollow | form |
 | [SubmitMatic](https://listaify.com/places/submitmatic) | Accepts | Not stated | dofollow | form |
+| [Submito](https://listaify.com/places/submito) | Accepts | Free for a link back | dofollow | form |
 | [SumoDir](https://listaify.com/places/sumodir) | Accepts | Free for a link back | dofollow | form |
 | [SustainabilitySoftwares](https://listaify.com/places/sustainabilitysoftwares) | Sustainability tools only | Not stated | dofollow | form |
+| [Talent Tech Labs](https://listaify.com/places/talent-tech-labs) | HR technology only | Not stated | not stated | form |
 | [TapRefer](https://listaify.com/places/taprefer) | Affiliate programmes only | Not stated | sponsored | form |
+| [TeachOnline](https://listaify.com/places/teachonline) | Online learning products only | Not stated | dofollow | form |
+| [TechRaisal](https://listaify.com/places/techraisal) | Accepts | Free or paid | nofollow | form |
 | [The One Startup](https://listaify.com/places/the-one-startup) | Accepts | Free or paid | dofollow | form |
+| [The Startup Project](https://listaify.com/places/startup-project) | Accepts | Free for a link back | nofollow | form |
 | [TheMicroSaaSDir](https://listaify.com/places/themicrosaasdir) | Accepts | Free for a link back | dofollow | form |
 | [ThePopularApps](https://listaify.com/places/thepopularapps) | Free iOS and Android apps only | Free or paid | nofollow | form |
+| [TheSaaSDirectory](https://listaify.com/places/thesaasdirectory) | Accepts | Not stated | dofollow | form |
 | [Tidy Repo](https://listaify.com/places/tidy-repo) | WordPress plugins only | Free or paid | dofollow | form |
+| [TiloBox](https://listaify.com/places/tilobox) | Open source or free tools only | Free | dofollow | form |
 | [TinyShelf](https://listaify.com/places/tinyshelf) | Accepts | Free or paid | nofollow | form |
 | [Tool Finder](https://listaify.com/places/tool-finder) | Accepts | Paid | sponsored | form |
 | [Tool Index](https://listaify.com/places/tool-index) | Accepts | Free or paid | nofollow | form |
+| [Tool List](https://listaify.com/places/tool-list) | Accepts | Free or paid | dofollow | form |
 | [Toolcurio](https://listaify.com/places/toolcurio) | Accepts | Free for a link back | dofollow | form |
 | [ToolDirs](https://listaify.com/places/tooldirs) | Accepts | Free for a link back | dofollow | form |
 | [Toolfio](https://listaify.com/places/toolfio) | Accepts | Free for a link back | dofollow | form |
 | [Toolfolio](https://listaify.com/places/toolfolio) | Accepts | Paid | dofollow | form |
 | [ToolHub](https://listaify.com/places/toolhub) | Accepts | Paid | dofollow | form |
+| [toolleeo/awesome-cli-apps-in-a-csv](https://listaify.com/places/toolleeo-awesome-cli-apps-in-a-csv) | Command line tools only | Free | nofollow | form |
+| [tools.cafe](https://listaify.com/places/tools-cafe) | Accepts | Free for a link back | dofollow | form |
+| [ToolSift](https://listaify.com/places/toolsift) | Accepts | Not stated | dofollow | form |
 | [TOOOLS.design](https://listaify.com/places/toools-design) | Design tools only | Free or paid | dofollow | form |
+| [Top Social Tools](https://listaify.com/places/top-social-tools) | Social media tools only | Paid | dofollow | form |
+| [TopAlternativesTo](https://listaify.com/places/topalternativesto) | Accepts | Free | nofollow | form |
+| [Toplistly](https://listaify.com/places/toplistly) | Accepts | Free or paid | nofollow | form |
 | [Toshi List](https://listaify.com/places/toshi-list) | Accepts | Not stated | dofollow | form |
+| [TravelApps](https://listaify.com/places/travelapps) | Travel apps only | Free for a link back | nofollow | form |
+| [TrendingDevTools](https://listaify.com/places/trendingdevtools) | Accepts | Free for a link back | dofollow | form |
 | [Trustiner](https://listaify.com/places/trustiner) | Accepts | Not stated | nofollow | form |
 | [Unite List](https://listaify.com/places/unite-list) | Accepts | Not stated | dofollow | form |
 | [Unloc](https://listaify.com/places/unloc) | Accepts | Free; category pin $149 a month | not stated | form |
 | [Uno Directory](https://listaify.com/places/uno-directory) | Accepts | Free for a link back | dofollow | form |
 | [UtilPortal](https://listaify.com/places/utilportal) | Accepts | Paid | dofollow | form |
+| [Uwarp](https://listaify.com/places/uwarp) | Accepts | Free | nofollow | form |
+| [VibePick](https://listaify.com/places/vibepick) | Apps built with AI tools only | Free | dofollow | form |
+| [Vision Directory](https://listaify.com/places/vision-directory) | Vision Pro apps only | Not stated | not stated | form |
+| [wdhdev/free-for-life](https://listaify.com/places/wdhdev-free-for-life) | Services with a free plan only | Free | nofollow | form |
 | [We Like Tools](https://listaify.com/places/we-like-tools) | Accepts | Not stated | dofollow | form |
+| [Web Guru Awards](https://listaify.com/places/web-guru-awards) | Web design showcase only | Free or paid | not stated | form |
 | [WebCurate](https://listaify.com/places/webcurate) | Accepts | Paid | dofollow | form |
+| [WebsiteBuilders.Directory](https://listaify.com/places/websitebuilders-directory) | Website builders only | Free or paid | nofollow | form |
 | [Webspot](https://listaify.com/places/webspot) | Accepts | Free for a link back | dofollow | form |
 | [YouMightNotNeed](https://listaify.com/places/youmightnotneed) | Alternatives to popular SaaS | Free or paid | dofollow | form |
+| [Zen99](https://listaify.com/places/zen99) | Accepts | Free for a link back | nofollow | form |
+| [Свои в ИТ](https://listaify.com/places/svoi-v-it) | Russian products only | Free or paid | not stated | form |
+| [デジタル化の窓口](https://listaify.com/places/digi-mado) | Accepts | Free or paid | dofollow | form |
 | [小木屋 WeChalet](https://listaify.com/places/wechalet) | Accepts | Not stated | not stated | form |
 | [挖互联网](https://listaify.com/places/tigg) | Accepts | Not stated | not stated | form |
 
@@ -630,19 +1022,23 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Nick Launches](https://listaify.com/places/nick-launches) | Accepts | Free for a link back | not stated | form |
 | [DevHunt](https://listaify.com/places/devhunt) | Developer tools only | Free or paid | nofollow | form |
 | [1000 Tools](https://listaify.com/places/1000-tools) | Accepts | Free with a badge link back | dofollow | form |
+| [21st Tools](https://listaify.com/places/21st-tools) | Accepts | Free or paid | nofollow | form |
 | [Aback Launch](https://listaify.com/places/aback-launch) | Accepts | Free for a link back | dofollow | form |
 | [AI SaaS](https://listaify.com/places/ai-saas) | Accepts | Free | dofollow | form |
+| [AlphaShot](https://listaify.com/places/alphashot) | Accepts | Free or paid | dofollow | form |
 | [AppLauncher](https://listaify.com/places/applauncher) | Accepts | Free or paid | nofollow | form |
 | [Awesome Indie](https://listaify.com/places/awesome-indie) | Indie makers' own products | Free or paid | nofollow | form |
 | [Betabound](https://listaify.com/places/betabound) | Products in beta only | Free | dofollow | form |
 | [Better Launch](https://listaify.com/places/betterlaunch) | Accepts | Free or paid | nofollow | form |
 | [BRO Directory](https://listaify.com/places/bro-directory) | Accepts | Not stated | dofollow | form |
+| [Bro Find AI](https://listaify.com/places/bro-find-ai) | Accepts | Free or paid | nofollow | form |
 | [BufferApps](https://listaify.com/places/bufferapps) | Accepts | Ads from $999 a month | not stated | form |
 | [BuildHop](https://listaify.com/places/buildhop) | Accepts | Not stated | dofollow | form |
 | [Buildrship](https://listaify.com/places/buildrship) | Accepts | Free or paid | dofollow | form |
 | [Builtbyindies](https://listaify.com/places/builtbyindies) | Accepts | Free or paid | nofollow | form |
 | [BuiltByMe](https://listaify.com/places/builtbyme) | Accepts | Free or paid | dofollow | form |
 | [CodeHype](https://listaify.com/places/codehype) | Accepts | Free or paid | dofollow | form |
+| [Crowdstax](https://listaify.com/places/crowdstax) | Accepts | Free or paid | dofollow | form |
 | [CtrlAlt.CC](https://listaify.com/places/ctrlaltcc) | Accepts | Free or paid | dofollow | form |
 | [DailyPings](https://listaify.com/places/dailypings) | Accepts | Free for a link back | dofollow | form |
 | [DanielLaunches](https://listaify.com/places/daniellaunches) | Accepts | Free or paid | dofollow | form |
@@ -650,11 +1046,13 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Desifounder](https://listaify.com/places/desifounder) | Accepts | Free | dofollow | form |
 | [Directory Hunt](https://listaify.com/places/directory-hunt) | Directories and tiny projects | Free for a link back | dofollow | form |
 | [DivvLaunches](https://listaify.com/places/divvlaunches) | Accepts | Free for a link back | dofollow | form |
+| [Dujoor](https://listaify.com/places/dujoor) | Accepts | Not stated | dofollow | form |
 | [early.tools](https://listaify.com/places/early-tools) | Early-stage products only | Free or paid | dofollow | form |
 | [EarlyHunt](https://listaify.com/places/earlyhunt) | Accepts | Free for a link back | nofollow | form |
 | [Earlylaunch](https://listaify.com/places/earlylaunch) | Accepts | Free or paid | dofollow | form |
 | [Emoji Launch](https://listaify.com/places/emoji-launch) | Ready-to-use products only | Paid | dofollow | form |
 | [FastLaunch](https://listaify.com/places/fastlaunch) | Accepts | Free or paid | nofollow | form |
+| [FeaturedLane](https://listaify.com/places/featuredlane) | Accepts | Free or paid | nofollow | form |
 | [Firsto](https://listaify.com/places/firsto) | Accepts | Free or paid | nofollow | form |
 | [Forg](https://listaify.com/places/forg) | Accepts | Free or paid | nofollow | form |
 | [Founder.best](https://listaify.com/places/founder-best) | Accepts | Free or paid | dofollow | form |
@@ -681,7 +1079,9 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Launch begin](https://listaify.com/places/launch-begin) | Accepts | Launch from $9 | nofollow | form |
 | [Launch List](https://listaify.com/places/launch-list) | Accepts | Free or paid | dofollow | form |
 | [Launch Llama](https://listaify.com/places/launch-llama) | Accepts | Free or paid | nofollow | form |
+| [Launch Streak](https://listaify.com/places/launch-streak) | Accepts | Free or paid | nofollow | form |
 | [Launch Vault](https://listaify.com/places/launch-vault) | Accepts | Free for a link back | nofollow | form |
+| [LaunchAF](https://listaify.com/places/launchaf) | Accepts | Free for a link back | dofollow | form |
 | [LaunchBoard](https://listaify.com/places/launchboard) | Accepts | Free for a link back | nofollow | form |
 | [LaunchBuck](https://listaify.com/places/launchbuck) | Accepts | Free for a link back | dofollow | form |
 | [Launching Next](https://listaify.com/places/launching-next) | Accepts | Free or paid | nofollow | form |
@@ -689,6 +1089,8 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Launchit](https://listaify.com/places/launchit-site) | Accepts | Free or paid | nofollow | form |
 | [LaunchitX](https://listaify.com/places/launchitx) | Accepts | Free or paid | not stated | form |
 | [LaunchKiwi](https://listaify.com/places/launchkiwi) | Accepts | Free or paid | dofollow | form |
+| [LaunchNest](https://listaify.com/places/launchnest) | Accepts | Free for a link back | dofollow | form |
+| [LaunchOnIt](https://listaify.com/places/launchonit) | Accepts | Free or paid | dofollow | form |
 | [Launchpad](https://listaify.com/places/launchpad-ms) | Accepts | Free or paid | nofollow | form |
 | [LaunchPad India](https://listaify.com/places/launchpad-india) | Products built in India only | Free | not stated | form |
 | [Launchpadly](https://listaify.com/places/launchpadly) | Accepts | Free or paid | dofollow | form |
@@ -710,6 +1112,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Open Launch](https://listaify.com/places/openlaunch-ai) | Accepts | Free or paid | nofollow | form |
 | [Open Launch](https://listaify.com/places/open-launch) | Accepts | Free slots booked into 2027 | nofollow | form |
 | [OpenHunts](https://listaify.com/places/openhunts) | Accepts | Free or paid | nofollow | form |
+| [OpenUpvote](https://listaify.com/places/openupvote) | Accepts | Free or paid | dofollow | form |
 | [PaveLaunch](https://listaify.com/places/pavelaunch) | Accepts | Free or paid | dofollow | form |
 | [Post Your Startup](https://listaify.com/places/post-your-startup) | Accepts | Free for a link back | dofollow | form |
 | [Pro Launch](https://listaify.com/places/pro-launch) | Accepts | Free or paid | dofollow | form |
@@ -723,6 +1126,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [productdirs](https://listaify.com/places/productdirs) | Accepts | Free for a link back | nofollow | form |
 | [ProductFame](https://listaify.com/places/productfame) | Accepts | Free or paid | nofollow | form |
 | [ProofStories](https://listaify.com/places/proofstories) | Accepts | Free or paid | nofollow | form |
+| [ProofSwap](https://listaify.com/places/proofswap) | Accepts | Free or paid | dofollow | form |
 | [RankInPublic](https://listaify.com/places/rankinpublic) | Accepts | Free or paid | nofollow | form |
 | [SaaSCity](https://listaify.com/places/saascity) | Accepts | Free for a link back | dofollow | form |
 | [SaaSGrave Launches](https://listaify.com/places/saasgrave-launches) | Accepts | Free or paid | dofollow | form |
@@ -730,6 +1134,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Saaspa.ge](https://listaify.com/places/saaspa-ge) | Accepts | Free or paid | not stated | form |
 | [saasuji](https://listaify.com/places/saasuji) | Accepts | Free or paid | dofollow | form |
 | [ScrollLaunch](https://listaify.com/places/scrolllaunch) | Accepts | Free or paid | dofollow | form |
+| [Seailife](https://listaify.com/places/seailife) | Accepts | Free or paid | nofollow | form |
 | [Sell with Boost](https://listaify.com/places/sell-with-boost) | Accepts | Free or paid | nofollow | form |
 | [ShinyLaunch](https://listaify.com/places/shinylaunch) | Accepts | Not stated | dofollow | form |
 | [ShipBoost](https://listaify.com/places/shipboost) | Accepts | Free for a link back | dofollow | form |
@@ -737,6 +1142,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [ShipThing](https://listaify.com/places/shipthing) | Accepts | Free with a badge link back | nofollow | form |
 | [Shipyard HQ](https://listaify.com/places/shipyard-hq) | Accepts | Free or paid | sponsored | form |
 | [Shipybara](https://listaify.com/places/shipybara) | Accepts | Free or paid | nofollow | form |
+| [Shipycorn](https://listaify.com/places/shipycorn) | Accepts | Free or paid | dofollow | form |
 | [Sidehunt](https://listaify.com/places/sidehunt) | Accepts | Free or paid | nofollow | form |
 | [SideProjects](https://listaify.com/places/sideprojects) | Accepts | Free or paid | dofollow | form |
 | [Simple Lister](https://listaify.com/places/simple-lister) | Accepts | Free or paid | nofollow | form |
@@ -750,6 +1156,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Spotlitely](https://listaify.com/places/spotlitely) | Accepts | Free or paid | nofollow | form |
 | [Starter Best](https://listaify.com/places/starter-best) | Accepts | Free for a link back | nofollow | form |
 | [Startup.sx](https://listaify.com/places/startup-sx) | Accepts | Free for a link back | dofollow | form |
+| [StartupFound](https://listaify.com/places/startupfound) | Accepts | Free or paid | nofollow | form |
 | [StartupLibrary](https://listaify.com/places/startuplibrary) | Accepts | Free or paid | dofollow | form |
 | [StartupRanked](https://listaify.com/places/startupranked) | Accepts | Not stated | dofollow | form |
 | [Startups Lab](https://listaify.com/places/startups-lab) | Accepts | Free or paid | nofollow | form |
@@ -759,12 +1166,14 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [SubmitHunt](https://listaify.com/places/submithunt) | Accepts | Free or paid | nofollow | form |
 | [SubmitMySaas](https://listaify.com/places/submitmysaas) | Accepts | Free or paid | dofollow | form |
 | [Super Launch](https://listaify.com/places/super-launch) | Accepts | Free or paid | nofollow | form |
+| [SuperLaunch](https://listaify.com/places/superlaunch) | Accepts | Free or paid | dofollow | form |
 | [The Hack Stack](https://listaify.com/places/the-hack-stack) | Accepts | Free | dofollow | form |
 | [thistools](https://listaify.com/places/thistools) | Accepts | Free for a link back | nofollow | form |
 | [Tiny Startups](https://listaify.com/places/tiny-startups) | Accepts | Free or paid | nofollow | form |
 | [TinyHunt](https://listaify.com/places/tinyhunt) | Accepts | Free for a link back | nofollow | form |
 | [TinyLaunch](https://listaify.com/places/tinylaunch) | Accepts | Free or paid | nofollow | form |
 | [TinyLaunchpad](https://listaify.com/places/tinylaunchpad) | Accepts | Free or paid | nofollow | form |
+| [Tool Atlas](https://listaify.com/places/tool-atlas) | Accepts | Free or paid | nofollow | form |
 | [ToolVerified](https://listaify.com/places/toolverified) | Accepts | Free or paid | nofollow | form |
 | [Trendy Startups](https://listaify.com/places/trendy-startups) | Accepts | Free or paid | dofollow | form |
 | [Trust Revenue](https://listaify.com/places/trust-revenue) | Accepts | Free or paid | not stated | form |
@@ -774,6 +1183,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 | [Website Hunt](https://listaify.com/places/website-hunt) | Accepts | Paid | not stated | form |
 | [WeekHack](https://listaify.com/places/weekhack) | Accepts | Free or paid | nofollow | form |
 | [What Launched Today](https://listaify.com/places/whatlaunched-today) | Accepts | Free or paid | dofollow | form |
+| [WonderLaunch](https://listaify.com/places/wonderlaunch) | Accepts | Free or paid | dofollow | form |
 | [新趣集](https://listaify.com/places/xinquji) | Accepts | Free for a link back | dofollow | form |
 
 ## Startup databases
@@ -810,24 +1220,42 @@ Full terms for every one: [listaify.com/startup-databases](https://listaify.com/
 | [Startup Ranking](https://listaify.com/places/startup-ranking) | Accepts | Free or paid | nofollow | form |
 | [VC4A](https://listaify.com/places/vc4a) | Accepts | Free | not stated | form |
 | [TrustMRR](https://listaify.com/places/trustmrr) | Payment provider key required | Free or paid | nofollow | form |
+| [Harmonic](https://listaify.com/places/harmonic) | Accepts | Not stated | not stated | form |
+| [Vestbee](https://listaify.com/places/vestbee) | Accepts | Free | not stated | form |
 | [Website Rating](https://listaify.com/places/website-rating) | Accepts | Free or paid | nofollow | form |
 | [Startbase](https://listaify.com/places/startbase) | German startup scene | Free or paid | not stated | form |
 | [Arcapush](https://listaify.com/places/arcapush) | Accepts | Free or paid | dofollow | form |
 | [Bowora](https://listaify.com/places/bowora) | Accepts | Free or paid | nofollow | form |
+| [Brag in Public](https://listaify.com/places/brag-in-public) | Accepts | Free or paid | nofollow | form |
+| [CodeX TechIndex](https://listaify.com/places/codex-techindex) | Legal tech companies only | Free | dofollow | form |
+| [Digital Business: Startups of Belarus](https://listaify.com/places/digitalbelarus) | Belarusian startups only | Free or paid | nofollow | form |
+| [Elevate Greece](https://listaify.com/places/elevate-greece) | Greek startups only | Not stated | not stated | form |
+| [Europe Startup Guide](https://listaify.com/places/europe-startup-guide) | European startups only | Free | dofollow | form |
+| [founder.page](https://listaify.com/places/founder-page) | Accepts | Free or paid | dofollow | form |
 | [InnMind](https://listaify.com/places/innmind) | Accepts | Free or paid | not stated | form |
 | [Line of Sites](https://listaify.com/places/line-of-sites) | Accepts | Free for a link back | nofollow | form |
+| [Localmote](https://listaify.com/places/localmote) | Accepts | Free or paid | nofollow | form |
 | [Ramen.tools](https://listaify.com/places/ramen-tools) | Accepts | Paid | dofollow | form |
+| [Selva](https://listaify.com/places/selva) | Latin America startups only | Not stated | nofollow | — |
 | [Space Bandits](https://listaify.com/places/space-bandits) | Space startups only | Free or paid | dofollow | form |
 | [Startup Europe](https://listaify.com/places/startup-europe) | European startups only | Free | not stated | form |
 | [Startup Heroes](https://listaify.com/places/startup-heroes) | Accepts | Paid | not stated | form |
+| [Startup Map Hub](https://listaify.com/places/startup-map-hub) | Accepts | Free or paid | not stated | form |
 | [Startup Tracker](https://listaify.com/places/startup-tracker) | Accepts | Free | not stated | form |
+| [StartuPage](https://listaify.com/places/startupage) | Accepts | Free or paid | not stated | form |
 | [StartupList Africa](https://listaify.com/places/startuplist-africa) | African startups only | Free | dofollow | form |
+| [Startups Cult](https://listaify.com/places/startups-cult) | Venture-backed startups | On request | dofollow | form |
+| [Startups Map](https://listaify.com/places/startups-map) | Accepts | Free or paid | dofollow | form |
 | [Startups.fm](https://listaify.com/places/startups-fm) | Accepts | Paid | dofollow | form |
 | [Startups.fyi](https://listaify.com/places/startups-fyi) | Accepts | Paid | dofollow | form |
 | [startups.gallery](https://listaify.com/places/startups-gallery) | Early-stage startups only | Free or paid | nofollow | form |
+| [startups.nrw](https://listaify.com/places/startups-nrw) | North Rhine-Westphalia only | Free | not stated | form |
 | [startups.watch](https://listaify.com/places/startups-watch) | Turkish startups only | Free | not stated | form |
+| [StartupWiki](https://listaify.com/places/startupwiki) | Accepts | Free | not stated | form |
 | [Techboard](https://listaify.com/places/techboard) | Australian startups only | Free | not stated | form |
 | [TopStartups.io](https://listaify.com/places/topstartups) | Accepts | Not stated | dofollow | form |
+| [Trust Traffic](https://listaify.com/places/trust-traffic) | Verified traffic only | Free or paid | not stated | form |
+| [UNICORN BASE](https://listaify.com/places/unicorn-base) | Russian startups seeking funds | Free or paid | nofollow | form |
 
 ## Marketplaces and app stores
 
@@ -972,14 +1400,17 @@ Full terms for every one: [listaify.com/marketplaces](https://listaify.com/marke
 | [RocketHub](https://listaify.com/places/rockethub) | Accepts | Free; 30% of sales kept | not stated | form |
 | [APILayer Marketplace](https://listaify.com/places/apilayer-marketplace) | APIs only | Not stated | not stated | form |
 | [Datarade](https://listaify.com/places/datarade) | Data products only | Free or paid | not stated | form |
+| [Canva Developers](https://listaify.com/places/canva-developers) | Canva apps only | Not stated | not stated | form |
 | [Secret](https://listaify.com/places/joinsecret) | Accepts | On request | not stated | form |
 | [DealFuel](https://listaify.com/places/dealfuel) | Discounted deals only | Not stated | nofollow | form |
 | [NachoNacho](https://listaify.com/places/nachonacho) | Established SaaS for US SMBs | On request | nofollow | form |
 | [API.market](https://listaify.com/places/api-market) | APIs only | Free | not stated | form |
+| [AI Skill Market](https://listaify.com/places/ai-skill-market) | Claude skills and agents only | Free | dofollow | form |
 | [Chrome Web Store](https://listaify.com/places/chrome-web-store) | Chrome extensions and themes | Paid | not stated | form |
 | [Dealify](https://listaify.com/places/dealify) | Accepts | On request | dofollow | form |
 | [DealMirror](https://listaify.com/places/dealmirror) | Discounted deals only | Up to 70% of sales to vendor | dofollow | form |
 | [DealMyApp](https://listaify.com/places/dealmyapp) | Accepts | Free | nofollow | form |
+| [Docker MCP Registry](https://listaify.com/places/docker-mcp-registry) | MCP servers only | Free | dofollow | form |
 | [Firefox Add-ons](https://listaify.com/places/firefox-add-ons) | Browser extensions only | Not stated | nofollow | form |
 | [GitHub Marketplace](https://listaify.com/places/github-marketplace) | Tools that work with GitHub | Free | not stated | form |
 | [Google Workspace Marketplace](https://listaify.com/places/google-workspace-marketplace) | Google Workspace apps only | Not stated | dofollow | form |
@@ -1019,6 +1450,7 @@ Full terms for every one: [listaify.com/newsletters](https://listaify.com/newsle
 | [Failory](https://listaify.com/places/failory) | Accepts | Paid | not stated | form |
 | [Marketing AI Institute](https://listaify.com/places/marketing-ai-institute) | AI for marketing teams | On request | not stated | form |
 | [The Rundown AI](https://listaify.com/places/the-rundown-ai) | Accepts | Free or paid | dofollow | form |
+| [Niche Pursuits](https://listaify.com/places/niche-pursuits) | Online business audience | Paid | not stated | form |
 | [The Daily Upside](https://listaify.com/places/the-daily-upside) | Finance audience only | On request | not stated | form |
 | [Software Engineering Daily](https://listaify.com/places/software-engineering-daily) | Accepts | On request | not stated | form |
 | [Sidebar](https://listaify.com/places/sidebar) | Design-related links only | Free or paid | not stated | form |
@@ -1038,17 +1470,20 @@ Full terms for every one: [listaify.com/newsletters](https://listaify.com/newsle
 | [Demand Curve](https://listaify.com/places/demand-curve) | B2B products only | Paid | not stated | form |
 | [PyCoder's Weekly](https://listaify.com/places/pycoders-weekly) | Python-related only | Free or paid | not stated | form |
 | [10words](https://listaify.com/places/10words) | Accepts | Free or paid | dofollow | form |
+| [AI Newsletters Directory](https://listaify.com/places/ai-newsletters-directory) | AI newsletters only | Free | dofollow | form |
 | [Android Weekly](https://listaify.com/places/android-weekly) | Android development only | Free link suggestions | dofollow | form |
 | [Bytes](https://listaify.com/places/bytes) | Accepts | On request | dofollow | form |
 | [Console](https://listaify.com/places/console-dev) | Developer tools only | Free or paid | dofollow | form |
 | [CSS Weekly](https://listaify.com/places/css-weekly) | Frontend topics only | Free or paid | dofollow | form |
 | [Data Elixir](https://listaify.com/places/data-elixir) | Data science and ML only | Paid | dofollow | form |
+| [Dealflow](https://listaify.com/places/dealflow-es) | Spanish tech audience only | On request | not stated | form |
 | [Dense Discovery](https://listaify.com/places/dense-discovery) | Restrained AI use only | Paid | not stated | form |
 | [Hacker Newsletter](https://listaify.com/places/hacker-newsletter) | Accepts | Paid | dofollow | form |
 | [Internet Is Beautiful](https://listaify.com/places/internet-is-beautiful) | Accepts | Free or paid | not stated | form |
 | [iOS Dev Weekly](https://listaify.com/places/ios-dev-weekly) | Swift and Apple dev only | Free or paid | not stated | form |
 | [ljinkai/weekly](https://listaify.com/places/ljinkai-weekly) | Indie dev products only | Free | nofollow | form |
 | [Neatprompts](https://listaify.com/places/neatprompts) | Accepts | On request | dofollow | form |
+| [No Code MBA](https://listaify.com/places/no-code-mba) | Accepts | Paid | not stated | form |
 | [Node Weekly](https://listaify.com/places/node-weekly) | Node.js topics only | Free or paid | dofollow | form |
 | [Pointer](https://listaify.com/places/pointer) | For engineering leaders | On request | not stated | form |
 | [ruanyf/weekly](https://listaify.com/places/ruanyf-weekly) | Accepts | Free | nofollow | form |
@@ -1057,6 +1492,7 @@ Full terms for every one: [listaify.com/newsletters](https://listaify.com/newsle
 | [Turing Post](https://listaify.com/places/turing-post) | No press-release summaries | On request | dofollow | form |
 | [UX Design Weekly](https://listaify.com/places/ux-design-weekly) | UX design only | Free or paid | not stated | form |
 | [Web Tools Weekly](https://listaify.com/places/web-tools-weekly) | Web developer tools only | Free or paid | dofollow | form |
+| [What's brewing in AI](https://listaify.com/places/whats-brewing-in-ai) | Accepts | Paid | nofollow | form |
 
 ## Communities
 
@@ -1113,6 +1549,8 @@ Full terms for every one: [listaify.com/launch-yourself](https://listaify.com/la
 | [WIP](https://listaify.com/places/wip) | Accepts | Paid | nofollow | form |
 | [eCommerceFuel](https://listaify.com/places/ecommercefuel) | Software vendor partners only | Free or paid | dofollow | form |
 | [TabNews](https://listaify.com/places/tabnews) | Pitches must add value | Free | nofollow | form |
+| [AI Forums](https://listaify.com/places/ai-forums) | Promo only after 5 posts | Free | nofollow | form |
+| [CoderLegion](https://listaify.com/places/coderlegion) | Accepts | Free or paid | nofollow | form |
 | [Make.rs](https://listaify.com/places/make-rs) | Accepts | Free or paid | nofollow | form |
 | [Online Geniuses](https://listaify.com/places/online-geniuses) | Promo only in #shameless_plug | Free | not stated | form |
 | [PromptZone](https://listaify.com/places/promptzone) | No mainly promotional posts | Free | nofollow | form |
@@ -1348,6 +1786,7 @@ Full terms for every one: [listaify.com/press](https://listaify.com/press)
 | [AlleyWatch](https://listaify.com/places/alleywatch) | NYC-based startups only | Free or paid | not stated | form |
 | [Venture Square](https://listaify.com/places/venture-square) | Korean startups and tech | Free or paid | not stated | form |
 | [Trak.in](https://listaify.com/places/trak-in) | Accepts | Free or paid | not stated | form |
+| [Startups Magazine](https://listaify.com/places/startups-magazine) | Accepts | On request | not stated | form |
 | [Prolific North](https://listaify.com/places/prolific-north) | Northern England news | Free or paid | not stated | form |
 | [Datafloq](https://listaify.com/places/datafloq) | Accepts | Free or paid | dofollow | form |
 | [IT Brief Australia](https://listaify.com/places/it-brief-australia) | Australian enterprise IT news | Free or paid | not stated | form |
@@ -1359,21 +1798,25 @@ Full terms for every one: [listaify.com/press](https://listaify.com/press)
 | [The Gradient](https://listaify.com/places/the-gradient) | Essays and overviews only | Free | not stated | form |
 | [El Referente](https://listaify.com/places/el-referente) | Accepts | Not stated | not stated | form |
 | [Developer Tech News](https://listaify.com/places/developer-tech-news) | Accepts | Paid | not stated | form |
+| [Expert Insights](https://listaify.com/places/expert-insights) | Cybersecurity vendors only | On request | sponsored | form |
 | [Latitude Media](https://listaify.com/places/latitude-media) | Climate and energy tech only | On request | not stated | form |
 | [ArcticStartup](https://listaify.com/places/arcticstartup) | Nordic and Baltic startups | On request | dofollow | form |
 | [The Red Ferret](https://listaify.com/places/red-ferret) | Unpaid contributor posts only | Free | dofollow | form |
 | [TechCircle](https://listaify.com/places/techcircle) | India-focused tech news | On request | not stated | form |
 | [TechCentral.ie](https://listaify.com/places/techcentral-ie) | Irish tech news | On request | not stated | form |
 | [Startupticker.ch](https://listaify.com/places/startupticker) | Swiss startups only | Free or paid | dofollow | form |
+| [Techweez](https://listaify.com/places/techweez) | Accepts | Not stated | not stated | form |
 | [DevClass](https://listaify.com/places/devclass) | Software development topics | Free or paid | sponsored | form |
 | [Cyber Security Intelligence](https://listaify.com/places/cybersecurityintelligence) | Cybersecurity topics only | Sponsorship from $750 | not stated | form |
 | [App Developer Magazine](https://listaify.com/places/app-developer-magazine) | Accepts | Free or paid | not stated | form |
 | [StartupValley](https://listaify.com/places/startupvalley) | Accepts | Free to pitch | dofollow | form |
 | [Young Upstarts](https://listaify.com/places/young-upstarts) | Accepts | Free or paid | not stated | form |
 | [MacTrast](https://listaify.com/places/mactrast) | Apple news only | Free | not stated | form |
+| [IndianWeb2](https://listaify.com/places/indianweb2) | Accepts | On request | not stated | form |
 | [TechMoran](https://listaify.com/places/techmoran) | Accepts | Paid | not stated | form |
 | [Startup Savant](https://listaify.com/places/startup-savant) | Accepts | Paid | sponsored | form |
 | [EdScoop](https://listaify.com/places/edscoop) | Education technology only | Free or paid | not stated | form |
+| [StartupNews.fyi](https://listaify.com/places/startupnews-fyi) | Accepts | On request | not stated | form |
 | [HRTech Series](https://listaify.com/places/hrtech-series) | HR technology only | On request | not stated | form |
 | [HRO Today](https://listaify.com/places/hro-today) | HR industry only | On request | not stated | form |
 | [TalentCulture](https://listaify.com/places/talentculture) | HR and HR tech only | Free or paid | not stated | form |
@@ -1388,6 +1831,8 @@ Full terms for every one: [listaify.com/press](https://listaify.com/press)
 | [Techlomedia](https://listaify.com/places/techlomedia) | Accepts | Free or paid | not stated | form |
 | [WeeTracker](https://listaify.com/places/weetracker) | Stories about Africa only | Free or paid | not stated | form |
 | [Robotics 24/7](https://listaify.com/places/robotics-24-7) | Robotics and automation only | Paid | dofollow | form |
+| [Netokracija](https://listaify.com/places/netokracija) | Accepts | On request | not stated | form |
+| [ChinaTechNews.com](https://listaify.com/places/chinatechnews) | Accepts | On request | not stated | form |
 | [SPEKA](https://listaify.com/places/speka) | Accepts | On request | not stated | form |
 | [Highload.tech](https://listaify.com/places/highload-tech) | Written for developers only | Free or paid | nofollow | form |
 | [FOSS Post](https://listaify.com/places/foss-post) | Open source only | Free or paid | not stated | form |
@@ -1402,28 +1847,45 @@ Full terms for every one: [listaify.com/press](https://listaify.com/press)
 | [appPicker](https://listaify.com/places/apppicker) | iPhone and iPad apps only | Not stated | not stated | form |
 | [AI Accelerator Institute](https://listaify.com/places/ai-accelerator-institute) | Accepts | Free or paid | dofollow | form |
 | [AIhub](https://listaify.com/places/aihub-org) | AI research content only | Free | dofollow | form |
+| [All Tech Magazine](https://listaify.com/places/all-tech-magazine) | Founders and executives only | Not stated | nofollow | form |
 | [AmericanStartups](https://listaify.com/places/americanstartups) | Accepts | On request | not stated | form |
+| [Barcinno](https://listaify.com/places/barcinno) | Barcelona community news only | Free or paid | dofollow | form |
+| [Bedrijfssoftwaregids](https://listaify.com/places/bedrijfssoftwaregids) | Software for Dutch SMEs | Paid | sponsored | form |
 | [DailyTech.ai](https://listaify.com/places/dailytech-ai) | Accepts | Free or paid | not stated | form |
+| [EU Startup News](https://listaify.com/places/eu-startup-news) | Accepts | Paid | dofollow | form |
+| [FoundersBeta](https://listaify.com/places/foundersbeta) | Accepts | Paid | dofollow | form |
 | [Future Startup](https://listaify.com/places/futurestartup) | Bangladesh focus | Free or paid | not stated | form |
+| [FutureFive New Zealand](https://listaify.com/places/futurefive-nz) | Accepts | Paid | not stated | form |
+| [HR Tech SaaS](https://listaify.com/places/hr-tech-saas) | HR technology only | Free or paid | dofollow | form |
 | [HubSpot Blog](https://listaify.com/places/hubspot-blog) | Expert articles, no promotion | Not stated | not stated | form |
+| [iOS App Lists](https://listaify.com/places/ios-app-lists) | iPhone and iPad apps only | Free or paid | sponsored | form |
+| [Just Entrepreneurs](https://listaify.com/places/just-entrepreneurs) | Accepts | Free or paid | not stated | form |
 | [Karo Startup](https://listaify.com/places/karo-startup) | Indian startups only | Not stated | not stated | form |
+| [LatamList](https://listaify.com/places/latamlist) | Latin American startups only | Not stated | dofollow | form |
 | [MakerThrive](https://listaify.com/places/makerthrive) | Builder tools only | Paid | not stated | form |
+| [RecTech Media](https://listaify.com/places/rectech-media) | Recruiting tech vendors only | Paid | dofollow | form |
+| [SaaS Club](https://listaify.com/places/saas-club) | B2B founders over $1M revenue | Free or paid | not stated | form |
 | [SaaS Mag](https://listaify.com/places/saas-mag) | SaaS topics only | Not stated | dofollow | form |
+| [Silicon Hills News](https://listaify.com/places/silicon-hills-news) | Accepts | Free or paid | not stated | form |
+| [Startupanz](https://listaify.com/places/startupanz) | Accepts | Free or paid | dofollow | form |
 | [StartupBeat](https://listaify.com/places/startupbeat) | Early-stage startups only | Free or paid | not stated | form |
 | [Startups of London](https://listaify.com/places/startups-of-london) | London and UK startups only | Not stated | not stated | form |
 | [Taalk](https://listaify.com/places/taalk) | Accepts | Free or paid | dofollow | form |
+| [Tech Pilot](https://listaify.com/places/tech-pilot) | Editors choose what to review | Free | sponsored | form |
 | [Tech With Jerad](https://listaify.com/places/tech-with-jerad) | Consumer tech and apps only | On request | not stated | form |
 | [The IndianPreneur](https://listaify.com/places/the-indianpreneur) | Indian startups only | On request | dofollow | form |
 | [The Tech Panda](https://listaify.com/places/the-tech-panda) | Accepts | Free or paid | dofollow | form |
 | [Unmatched Style](https://listaify.com/places/unmatched-style) | Original web designs only | Free or paid | dofollow | form |
 | [Web Designer News](https://listaify.com/places/web-designer-news) | Articles only, no homepages | Free or paid | dofollow | form |
+| [WebGL / WebGPU Community](https://listaify.com/places/webgl-webgpu-community) | WebGL and WebGPU only | Not stated | dofollow | form |
 | [What's New On The Net](https://listaify.com/places/whats-new-on-the-net) | Accepts | Free | not stated | form |
+| [Øresund Startups](https://listaify.com/places/oresund-startups) | Øresund region startups only | Free or paid | not stated | form |
 
 ## Places that say no
 
-7 places whose own rules turn AI products away, or that take no new listings: skip them. Each one with its rule: [listaify.com/places-that-say-no](https://listaify.com/places-that-say-no).
+11 places whose own rules turn AI products away, or that take no new listings: skip them. Each one with its rule: [listaify.com/places-that-say-no](https://listaify.com/places-that-say-no).
 
-AI-Tools Directory (No manual submissions), Free AI Tool (Submissions paused), Futurepedia (No submit form; editors pick), Ghost integrations (Closed to submissions), PulseMCP (Paused (as of September 2026)), r/InternetIsBeautiful (No AI-driven or paid sites), TopTools (Submissions paused)
+500.Tools (Sold out: no spots left), Agentarius (No submissions; editors pick), AI-Tools Directory (No manual submissions), Clabel (Closed to new listings), Free AI Tool (Submissions paused), Futurepedia (No submit form; editors pick), Ghost integrations (Closed to submissions), Indie Dev Tools (Submissions paused), PulseMCP (Paused (as of September 2026)), r/InternetIsBeautiful (No AI-driven or paid sites), TopTools (Submissions paused)
 
 ## Contributing
 
