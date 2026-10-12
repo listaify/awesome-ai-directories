@@ -2,7 +2,7 @@
 
 A curated list of places where an AI product can get listed: AI directories, SaaS directories and review sites, launch platforms, startup databases, marketplaces and app stores, newsletters, communities and press.
 
-**1799 places**, each checked against its own submit page, pricing page or rules (last check 2026-10-03). Each name opens the place's page on **[listaify.com](https://listaify.com)**: its address, the price, the link you get, how review works and where to submit.
+**1800 places**, each checked against its own submit page, pricing page or rules (last check 2026-10-03). Each name opens the place's page on **[listaify.com](https://listaify.com)**: its address, the price, the link you get, how review works and where to submit.
 
 ## Get listed faster
 
@@ -1002,6 +1002,7 @@ Full terms for every one: [listaify.com/launch-platforms](https://listaify.com/l
 
 | Place | Verdict | Price | Link | How to submit |
 |---|---|---|---|---|
+| [StarTap](https://startap.cc/) | Accepts | Free | not stated | form |
 | [Product Hunt](https://listaify.com/places/product-hunt) | Accepts | Free to launch | nofollow | form |
 | [CSS Design Awards](https://listaify.com/places/css-design-awards) | Complete, original sites only | Paid | dofollow | form |
 | [BetaList](https://listaify.com/places/betalist) | Early-stage startups only | Paid | dofollow | form |
