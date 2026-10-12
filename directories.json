@@ -2,7 +2,7 @@
   "source": "https://listaify.com",
   "license": "CC BY 4.0",
   "updated": "2026-10-03",
-  "count": 1799,
+  "count": 1800,
   "places": [
     {
       "name": "There's An AI For That",
@@ -23390,6 +23390,19 @@
       "how_to_submit": "form",
       "checked": "2026-10-03",
       "details": "https://listaify.com/places/oresund-startups"
+    },
+    {
+      "name": "StarTap",
+      "kind": "launch_platform",
+      "accepts": "yes",
+      "rule": null,
+      "verdict": "Accepts",
+      "focus": null,
+      "price": "Free",
+      "link": "not stated",
+      "how_to_submit": "form",
+      "checked": "2026-10-12",
+      "details": "https://startap.cc/"
     }
   ]
 }
